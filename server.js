@@ -99,6 +99,12 @@ function formatMissingFields(fields) {
   return `${head}, and ${tail} are required`;
 }
 
+app.get('/', (_req, res) => {
+  res.json({
+    message: 'welcome to njay world, ensure to try my code',
+  });
+});
+
 app.post('/countries/refresh', async (_req, res) => {
   let backupData = null;
   let backupExists = false;
