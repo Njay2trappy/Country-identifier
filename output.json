@@ -1,0 +1,4827 @@
+[
+  {
+    "id": 0,
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "region": "Asia",
+    "exchange_rate": 66.304272,
+    "estimated_gdp": 795104418.32,
+    "population": 40218234,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "currencies": [
+      {
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 1,
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 38873321.06,
+    "population": 28875,
+    "flag": "https://flagcdn.com/ax.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 2,
+    "name": "Albania",
+    "capital": "Tirana",
+    "region": "Europe",
+    "exchange_rate": 83.321619,
+    "estimated_gdp": 66322069.26,
+    "population": 2837743,
+    "flag": "https://flagcdn.com/al.svg",
+    "currencies": [
+      {
+        "code": "ALL",
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 3,
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "exchange_rate": 130.405242,
+    "estimated_gdp": 501261922.33,
+    "population": 44700000,
+    "flag": "https://flagcdn.com/dz.svg",
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 4,
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "exchange_rate": 1,
+    "estimated_gdp": 106048212.15,
+    "population": 55197,
+    "flag": "https://flagcdn.com/as.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 5,
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 96303162.23,
+    "population": 77265,
+    "flag": "https://flagcdn.com/ad.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 6,
+    "name": "Angola",
+    "capital": "Luanda",
+    "region": "Africa",
+    "exchange_rate": 923.273397,
+    "estimated_gdp": 60710442.2,
+    "population": 32866268,
+    "flag": "https://flagcdn.com/ao.svg",
+    "currencies": [
+      {
+        "code": "AOA",
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 7,
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 8532974.87,
+    "population": 13452,
+    "flag": "https://flagcdn.com/ai.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 8,
+    "name": "Antarctica",
+    "capital": null,
+    "region": "Polar",
+    "exchange_rate": null,
+    "estimated_gdp": null,
+    "population": 1000,
+    "flag": "https://flagcdn.com/aq.svg",
+    "currencies": [],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:19.597Z"
+  },
+  {
+    "id": 9,
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 64017723.63,
+    "population": 97928,
+    "flag": "https://flagcdn.com/ag.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 10,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "exchange_rate": 1484,
+    "estimated_gdp": 33107841.43,
+    "population": 45376763,
+    "flag": "https://flagcdn.com/ar.svg",
+    "currencies": [
+      {
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 11,
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "exchange_rate": 382.382711,
+    "estimated_gdp": 8032744.66,
+    "population": 2963234,
+    "flag": "https://flagcdn.com/am.svg",
+    "currencies": [
+      {
+        "code": "AMD",
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 12,
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "exchange_rate": 1.79,
+    "estimated_gdp": 88324359.37,
+    "population": 106766,
+    "flag": "https://flagcdn.com/aw.svg",
+    "currencies": [
+      {
+        "code": "AWG",
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 13,
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 20491412862.31,
+    "population": 25687041,
+    "flag": "https://flagcdn.com/au.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 14,
+    "name": "Austria",
+    "capital": "Vienna",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 16525486577.67,
+    "population": 8917205,
+    "flag": "https://flagcdn.com/at.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 15,
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "exchange_rate": 1.69989,
+    "estimated_gdp": 7255115020.62,
+    "population": 10110116,
+    "flag": "https://flagcdn.com/az.svg",
+    "currencies": [
+      {
+        "code": "AZN",
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 16,
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 552869650.43,
+    "population": 393248,
+    "flag": "https://flagcdn.com/bs.svg",
+    "currencies": [
+      {
+        "code": "BSD",
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 17,
+    "name": "Bahrain",
+    "capital": "Manama",
+    "region": "Asia",
+    "exchange_rate": 0.376,
+    "estimated_gdp": 7625268392.48,
+    "population": 1701583,
+    "flag": "https://flagcdn.com/bh.svg",
+    "currencies": [
+      {
+        "code": "BHD",
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 18,
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "exchange_rate": 122.409615,
+    "estimated_gdp": 1554259292.97,
+    "population": 164689383,
+    "flag": "https://flagcdn.com/bd.svg",
+    "currencies": [
+      {
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 19,
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "exchange_rate": 2,
+    "estimated_gdp": 216271017.27,
+    "population": 287371,
+    "flag": "https://flagcdn.com/bb.svg",
+    "currencies": [
+      {
+        "code": "BBD",
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 20,
+    "name": "Belarus",
+    "capital": "Minsk",
+    "region": "Europe",
+    "exchange_rate": 3.264552,
+    "estimated_gdp": 5194672197.84,
+    "population": 9398861,
+    "flag": "https://flagcdn.com/by.svg",
+    "currencies": [
+      {
+        "code": "BYN",
+        "name": "New Belarusian ruble",
+        "symbol": "Br"
+      },
+      {
+        "code": "BYR",
+        "name": "Old Belarusian ruble",
+        "symbol": "Br"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 21,
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 17389247791.16,
+    "population": 11555997,
+    "flag": "https://flagcdn.com/be.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 22,
+    "name": "Belize",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "exchange_rate": 2,
+    "estimated_gdp": 229919781.67,
+    "population": 397621,
+    "flag": "https://flagcdn.com/bz.svg",
+    "currencies": [
+      {
+        "code": "BZD",
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 23,
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 36141321.4,
+    "population": 12123198,
+    "flag": "https://flagcdn.com/bj.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 24,
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 102914005.96,
+    "population": 63903,
+    "flag": "https://flagcdn.com/bm.svg",
+    "currencies": [
+      {
+        "code": "BMD",
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 25,
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "exchange_rate": 87.857337,
+    "estimated_gdp": 10164005.25,
+    "population": 771612,
+    "flag": "https://flagcdn.com/bt.svg",
+    "currencies": [
+      {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 26,
+    "name": "Bolivia (Plurinational State of)",
+    "capital": "Sucre",
+    "region": "Americas",
+    "exchange_rate": 6.916525,
+    "estimated_gdp": 1893675119.84,
+    "population": 11673029,
+    "flag": "https://flagcdn.com/bo.svg",
+    "currencies": [
+      {
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 27,
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 34533584.18,
+    "population": 17408,
+    "flag": "https://flagcdn.com/bq.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 28,
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "exchange_rate": 1.68479,
+    "estimated_gdp": 2720229956.81,
+    "population": 3280815,
+    "flag": "https://flagcdn.com/ba.svg",
+    "currencies": [
+      {
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 29,
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "exchange_rate": 13.914784,
+    "estimated_gdp": 221283670.1,
+    "population": 2351625,
+    "flag": "https://flagcdn.com/bw.svg",
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 30,
+    "name": "Bouvet Island",
+    "capital": null,
+    "region": "Antarctic Ocean",
+    "exchange_rate": 9.976001,
+    "estimated_gdp": null,
+    "population": 0,
+    "flag": "https://flagcdn.com/bv.svg",
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 31,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "exchange_rate": 5.38499,
+    "estimated_gdp": 74800123565.77,
+    "population": 212559409,
+    "flag": "https://flagcdn.com/br.svg",
+    "currencies": [
+      {
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 32,
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "exchange_rate": 1,
+    "estimated_gdp": 4942941.81,
+    "population": 3000,
+    "flag": "https://flagcdn.com/io.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 33,
+    "name": "United States Minor Outlying Islands",
+    "capital": null,
+    "region": "Americas",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 552709.35,
+    "population": 300,
+    "flag": "https://flagcdn.com/um.svg",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 34,
+    "name": "Virgin Islands (British)",
+    "capital": "Road Town",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 59823026.13,
+    "population": 30237,
+    "flag": "https://flagcdn.com/vg.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 35,
+    "name": "Virgin Islands (U.S.)",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 183040986.49,
+    "population": 106290,
+    "flag": "https://flagcdn.com/vi.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 36,
+    "name": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "exchange_rate": 1.298872,
+    "estimated_gdp": 474230044.66,
+    "population": 437483,
+    "flag": "https://flagcdn.com/bn.svg",
+    "currencies": [
+      {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 37,
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "region": "Europe",
+    "exchange_rate": 1.685037,
+    "estimated_gdp": 5508623129.74,
+    "population": 6927288,
+    "flag": "https://flagcdn.com/bg.svg",
+    "currencies": [
+      {
+        "code": "BGN",
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 38,
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 52879707.84,
+    "population": 20903278,
+    "flag": "https://flagcdn.com/bf.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 39,
+    "name": "Burundi",
+    "capital": "Gitega",
+    "region": "Africa",
+    "exchange_rate": 2944.369107,
+    "estimated_gdp": 6923194.76,
+    "population": 11890781,
+    "flag": "https://flagcdn.com/bi.svg",
+    "currencies": [
+      {
+        "code": "BIF",
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 40,
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "exchange_rate": 4023.698584,
+    "estimated_gdp": 5338062.91,
+    "population": 16718971,
+    "flag": "https://flagcdn.com/kh.svg",
+    "currencies": [
+      {
+        "code": "KHR",
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 41,
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 71161067.35,
+    "population": 26545864,
+    "flag": "https://flagcdn.com/cm.svg",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 42,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "exchange_rate": 1.398709,
+    "estimated_gdp": 50785392769.65,
+    "population": 38005238,
+    "flag": "https://flagcdn.com/ca.svg",
+    "currencies": [
+      {
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 43,
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "region": "Africa",
+    "exchange_rate": 94.984389,
+    "estimated_gdp": 8847325.01,
+    "population": 555988,
+    "flag": "https://flagcdn.com/cv.svg",
+    "currencies": [
+      {
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 44,
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "region": "Americas",
+    "exchange_rate": 0.833333,
+    "estimated_gdp": 157363551.47,
+    "population": 65720,
+    "flag": "https://flagcdn.com/ky.svg",
+    "currencies": [
+      {
+        "code": "KYD",
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 45,
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 13989234.19,
+    "population": 4829764,
+    "flag": "https://flagcdn.com/cf.svg",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 46,
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 41681359.46,
+    "population": 16425859,
+    "flag": "https://flagcdn.com/td.svg",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 47,
+    "name": "Chile",
+    "capital": "Santiago",
+    "region": "Americas",
+    "exchange_rate": 950.920333,
+    "estimated_gdp": 37571028.13,
+    "population": 19116209,
+    "flag": "https://flagcdn.com/cl.svg",
+    "currencies": [
+      {
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 48,
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "exchange_rate": 7.116291,
+    "estimated_gdp": 385371055019.42,
+    "population": 1402112000,
+    "flag": "https://flagcdn.com/cn.svg",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 49,
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 1367204.74,
+    "population": 2072,
+    "flag": "https://flagcdn.com/cx.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 50,
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 461290.94,
+    "population": 550,
+    "flag": "https://flagcdn.com/cc.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 51,
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "exchange_rate": 3907.712205,
+    "estimated_gdp": 21161807.03,
+    "population": 50882884,
+    "flag": "https://flagcdn.com/co.svg",
+    "currencies": [
+      {
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 52,
+    "name": "Comoros",
+    "capital": "Moroni",
+    "region": "Africa",
+    "exchange_rate": 423.790469,
+    "estimated_gdp": 2999838.52,
+    "population": 869595,
+    "flag": "https://flagcdn.com/km.svg",
+    "currencies": [
+      {
+        "code": "KMF",
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 53,
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 16140037.46,
+    "population": 5518092,
+    "flag": "https://flagcdn.com/cg.svg",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 54,
+    "name": "Congo (Democratic Republic of the)",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "exchange_rate": 2226.866303,
+    "estimated_gdp": 47452415.3,
+    "population": 89561404,
+    "flag": "https://flagcdn.com/cd.svg",
+    "currencies": [
+      {
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 55,
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "exchange_rate": 1.738733,
+    "estimated_gdp": 16362910.42,
+    "population": 18100,
+    "flag": "https://flagcdn.com/ck.svg",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "CKD",
+        "name": "Cook Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 56,
+    "name": "Costa Rica",
+    "capital": "San José",
+    "region": "Americas",
+    "exchange_rate": 502.004574,
+    "estimated_gdp": 11698212.41,
+    "population": 5094114,
+    "flag": "https://flagcdn.com/cr.svg",
+    "currencies": [
+      {
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 57,
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 6231000064.94,
+    "population": 4047200,
+    "flag": "https://flagcdn.com/hr.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 58,
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "exchange_rate": null,
+    "estimated_gdp": null,
+    "population": 11326616,
+    "flag": "https://flagcdn.com/cu.svg",
+    "currencies": [
+      {
+        "code": "CUC",
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      {
+        "code": "CUP",
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:19.597Z"
+  },
+  {
+    "id": 59,
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "exchange_rate": 1.79,
+    "estimated_gdp": 96843149.82,
+    "population": 155014,
+    "flag": "https://flagcdn.com/cw.svg",
+    "currencies": [
+      {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 60,
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 2455596376.56,
+    "population": 1207361,
+    "flag": "https://flagcdn.com/cy.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 61,
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "region": "Europe",
+    "exchange_rate": 20.955982,
+    "estimated_gdp": 708523642.17,
+    "population": 10698896,
+    "flag": "https://flagcdn.com/cz.svg",
+    "currencies": [
+      {
+        "code": "CZK",
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 62,
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "exchange_rate": 6.427753,
+    "estimated_gdp": 1365352137.75,
+    "population": 5831404,
+    "flag": "https://flagcdn.com/dk.svg",
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 63,
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "exchange_rate": 177.721,
+    "estimated_gdp": 10414781.72,
+    "population": 988002,
+    "flag": "https://flagcdn.com/dj.svg",
+    "currencies": [
+      {
+        "code": "DJF",
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 64,
+    "name": "Dominica",
+    "capital": "Roseau",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 53151977.36,
+    "population": 71991,
+    "flag": "https://flagcdn.com/dm.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 65,
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "exchange_rate": 63.64621,
+    "estimated_gdp": 178927611.14,
+    "population": 10847904,
+    "flag": "https://flagcdn.com/do.svg",
+    "currencies": [
+      {
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 66,
+    "name": "Ecuador",
+    "capital": "Quito",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 18491493378.18,
+    "population": 17643060,
+    "flag": "https://flagcdn.com/ec.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 67,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "exchange_rate": 47.590897,
+    "estimated_gdp": 2285890732.86,
+    "population": 102334403,
+    "flag": "https://flagcdn.com/eg.svg",
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 68,
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 6972526570.04,
+    "population": 6486201,
+    "flag": "https://flagcdn.com/sv.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 69,
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 4057345.57,
+    "population": 1402985,
+    "flag": "https://flagcdn.com/gq.svg",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 70,
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "region": "Africa",
+    "exchange_rate": 15,
+    "estimated_gdp": 706462573.2,
+    "population": 5352000,
+    "flag": "https://flagcdn.com/er.svg",
+    "currencies": [
+      {
+        "code": "ERN",
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 71,
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 2710727974.92,
+    "population": 1331057,
+    "flag": "https://flagcdn.com/ee.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 72,
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "exchange_rate": 149.012154,
+    "estimated_gdp": 1334405643.19,
+    "population": 114963583,
+    "flag": "https://flagcdn.com/et.svg",
+    "currencies": [
+      {
+        "code": "ETB",
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 73,
+    "name": "Falkland Islands (Malvinas)",
+    "capital": "Stanley",
+    "region": "Americas",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 5242359.87,
+    "population": 2563,
+    "flag": "https://flagcdn.com/fk.svg",
+    "currencies": [
+      {
+        "code": "FKP",
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 74,
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "exchange_rate": 6.427753,
+    "estimated_gdp": 12150472.09,
+    "population": 48865,
+    "flag": "https://flagcdn.com/fo.svg",
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      {
+        "code": "FOK",
+        "name": "Faroese króna",
+        "symbol": "kr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 75,
+    "name": "Fiji",
+    "capital": "Suva",
+    "region": "Oceania",
+    "exchange_rate": 2.298104,
+    "estimated_gdp": 732889886.14,
+    "population": 896444,
+    "flag": "https://flagcdn.com/fj.svg",
+    "currencies": [
+      {
+        "code": "FJD",
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 76,
+    "name": "Finland",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 10585845404.3,
+    "population": 5530719,
+    "flag": "https://flagcdn.com/fi.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 77,
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 108906062764.39,
+    "population": 67391582,
+    "flag": "https://flagcdn.com/fr.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 78,
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 306467458.87,
+    "population": 254541,
+    "flag": "https://flagcdn.com/gf.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 79,
+    "name": "French Polynesia",
+    "capital": "Papeetē",
+    "region": "Oceania",
+    "exchange_rate": 102.794877,
+    "estimated_gdp": 4693847.47,
+    "population": 280904,
+    "flag": "https://flagcdn.com/pf.svg",
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 80,
+    "name": "French Southern Territories",
+    "capital": "Port-aux-Français",
+    "region": "Africa",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 268933.1,
+    "population": 140,
+    "flag": "https://flagcdn.com/tf.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 81,
+    "name": "Gabon",
+    "capital": "Libreville",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 7351064.67,
+    "population": 2225728,
+    "flag": "https://flagcdn.com/ga.svg",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 82,
+    "name": "Gambia",
+    "capital": "Banjul",
+    "region": "Africa",
+    "exchange_rate": 73.450273,
+    "estimated_gdp": 55861849.06,
+    "population": 2416664,
+    "flag": "https://flagcdn.com/gm.svg",
+    "currencies": [
+      {
+        "code": "GMD",
+        "name": "Gambian dalasi",
+        "symbol": "D"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 83,
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "exchange_rate": 2.715058,
+    "estimated_gdp": 1406444163.05,
+    "population": 3714000,
+    "flag": "https://flagcdn.com/ge.svg",
+    "currencies": [
+      {
+        "code": "GEL",
+        "name": "Georgian Lari",
+        "symbol": "ლ"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 84,
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 110658084090.34,
+    "population": 83240525,
+    "flag": "https://flagcdn.com/de.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 85,
+    "name": "Ghana",
+    "capital": "Accra",
+    "region": "Africa",
+    "exchange_rate": 10.970758,
+    "estimated_gdp": 3383030564.65,
+    "population": 31072945,
+    "flag": "https://flagcdn.com/gh.svg",
+    "currencies": [
+      {
+        "code": "GHS",
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 86,
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 52001876.69,
+    "population": 33691,
+    "flag": "https://flagcdn.com/gi.svg",
+    "currencies": [
+      {
+        "code": "GIP",
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 87,
+    "name": "Greece",
+    "capital": "Athens",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 23062987266.54,
+    "population": 10715549,
+    "flag": "https://flagcdn.com/gr.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 88,
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "exchange_rate": 6.427753,
+    "estimated_gdp": 11447498.97,
+    "population": 56367,
+    "flag": "https://flagcdn.com/gl.svg",
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 89,
+    "name": "Grenada",
+    "capital": "St. George's",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 74041388.63,
+    "population": 112519,
+    "flag": "https://flagcdn.com/gd.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 90,
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 639773386.48,
+    "population": 400132,
+    "flag": "https://flagcdn.com/gp.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 91,
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "exchange_rate": 1,
+    "estimated_gdp": 238372909.63,
+    "population": 168783,
+    "flag": "https://flagcdn.com/gu.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 92,
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "exchange_rate": 7.656918,
+    "estimated_gdp": 2951946247.23,
+    "population": 16858333,
+    "flag": "https://flagcdn.com/gt.svg",
+    "currencies": [
+      {
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 93,
+    "name": "Guernsey",
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 94917906.93,
+    "population": 62999,
+    "flag": "https://flagcdn.com/gg.svg",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "GGP",
+        "name": "Guernsey pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 94,
+    "name": "Guinea",
+    "capital": "Conakry",
+    "region": "Africa",
+    "exchange_rate": 8696.057897,
+    "estimated_gdp": 1636333.08,
+    "population": 13132792,
+    "flag": "https://flagcdn.com/gn.svg",
+    "currencies": [
+      {
+        "code": "GNF",
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 95,
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 4759321.39,
+    "population": 1967998,
+    "flag": "https://flagcdn.com/gw.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 96,
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "exchange_rate": 209.061198,
+    "estimated_gdp": 7310069.65,
+    "population": 786559,
+    "flag": "https://flagcdn.com/gy.svg",
+    "currencies": [
+      {
+        "code": "GYD",
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 97,
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "exchange_rate": 130.825825,
+    "estimated_gdp": 95866928.52,
+    "population": 11402533,
+    "flag": "https://flagcdn.com/ht.svg",
+    "currencies": [
+      {
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 98,
+    "name": "Heard Island and McDonald Islands",
+    "capital": null,
+    "region": "Antarctic",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": null,
+    "population": 0,
+    "flag": "https://flagcdn.com/hm.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 99,
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 852205.48,
+    "population": 451,
+    "flag": "https://flagcdn.com/va.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 100,
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "exchange_rate": 26.238765,
+    "estimated_gdp": 402517095.56,
+    "population": 9904608,
+    "flag": "https://flagcdn.com/hn.svg",
+    "currencies": [
+      {
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 101,
+    "name": "Hungary",
+    "capital": "Budapest",
+    "region": "Europe",
+    "exchange_rate": 335.99676,
+    "estimated_gdp": 50710689.53,
+    "population": 9749763,
+    "flag": "https://flagcdn.com/hu.svg",
+    "currencies": [
+      {
+        "code": "HUF",
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 102,
+    "name": "Hong Kong",
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "exchange_rate": 7.771333,
+    "estimated_gdp": 1823160291.07,
+    "population": 7481800,
+    "flag": "https://flagcdn.com/hk.svg",
+    "currencies": [
+      {
+        "code": "HKD",
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 103,
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "region": "Europe",
+    "exchange_rate": 122.520305,
+    "estimated_gdp": 3690922.98,
+    "population": 366425,
+    "flag": "https://flagcdn.com/is.svg",
+    "currencies": [
+      {
+        "code": "ISK",
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 104,
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "exchange_rate": 87.857391,
+    "estimated_gdp": 30737425907.52,
+    "population": 1380004385,
+    "flag": "https://flagcdn.com/in.svg",
+    "currencies": [
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 105,
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "exchange_rate": 16630.657721,
+    "estimated_gdp": 21662185.76,
+    "population": 273523621,
+    "flag": "https://flagcdn.com/id.svg",
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 106,
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 75631244.13,
+    "population": 26378275,
+    "flag": "https://flagcdn.com/ci.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 107,
+    "name": "Iran (Islamic Republic of)",
+    "capital": "Tehran",
+    "region": "Asia",
+    "exchange_rate": 42377.798572,
+    "estimated_gdp": 2806993.72,
+    "population": 83992953,
+    "flag": "https://flagcdn.com/ir.svg",
+    "currencies": [
+      {
+        "code": "IRR",
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 108,
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "exchange_rate": 1310.202683,
+    "estimated_gdp": 31358255.37,
+    "population": 40222503,
+    "flag": "https://flagcdn.com/iq.svg",
+    "currencies": [
+      {
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 109,
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 7651524230.04,
+    "population": 4994724,
+    "flag": "https://flagcdn.com/ie.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 110,
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "region": "Europe",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 129917492.67,
+    "population": 85032,
+    "flag": "https://flagcdn.com/im.svg",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "IMP[G]",
+        "name": "Manx pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 111,
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "exchange_rate": 3.294833,
+    "estimated_gdp": 5267522507.48,
+    "population": 9216900,
+    "flag": "https://flagcdn.com/il.svg",
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 112,
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 111466197315.56,
+    "population": 59554023,
+    "flag": "https://flagcdn.com/it.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 113,
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "region": "Americas",
+    "exchange_rate": 160.508504,
+    "estimated_gdp": 31571241.81,
+    "population": 2961161,
+    "flag": "https://flagcdn.com/jm.svg",
+    "currencies": [
+      {
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 114,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "exchange_rate": 152.476536,
+    "estimated_gdp": 1382907805.21,
+    "population": 125836021,
+    "flag": "https://flagcdn.com/jp.svg",
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 115,
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 230444542.1,
+    "population": 100800,
+    "flag": "https://flagcdn.com/je.svg",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "JEP[G]",
+        "name": "Jersey pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 116,
+    "name": "Jordan",
+    "capital": "Amman",
+    "region": "Asia",
+    "exchange_rate": 0.709,
+    "estimated_gdp": 16199293528.54,
+    "population": 10203140,
+    "flag": "https://flagcdn.com/jo.svg",
+    "currencies": [
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 117,
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "region": "Asia",
+    "exchange_rate": 538.066328,
+    "estimated_gdp": 57815266.79,
+    "population": 18754440,
+    "flag": "https://flagcdn.com/kz.svg",
+    "currencies": [
+      {
+        "code": "KZT",
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 118,
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "exchange_rate": 129.184485,
+    "estimated_gdp": 522804434.13,
+    "population": 53771300,
+    "flag": "https://flagcdn.com/ke.svg",
+    "currencies": [
+      {
+        "code": "KES",
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 119,
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 146705320.02,
+    "population": 119446,
+    "flag": "https://flagcdn.com/ki.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "KID",
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 120,
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "exchange_rate": 0.306417,
+    "estimated_gdp": 17081164118.49,
+    "population": 4270563,
+    "flag": "https://flagcdn.com/kw.svg",
+    "currencies": [
+      {
+        "code": "KWD",
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 121,
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "exchange_rate": 87.37333,
+    "estimated_gdp": 87665750.77,
+    "population": 6591600,
+    "flag": "https://flagcdn.com/kg.svg",
+    "currencies": [
+      {
+        "code": "KGS",
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 122,
+    "name": "Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "exchange_rate": 21753.085117,
+    "estimated_gdp": 380167.75,
+    "population": 7275556,
+    "flag": "https://flagcdn.com/la.svg",
+    "currencies": [
+      {
+        "code": "LAK",
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 123,
+    "name": "Latvia",
+    "capital": "Riga",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 2583123830.79,
+    "population": 1901548,
+    "flag": "https://flagcdn.com/lv.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 124,
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "region": "Asia",
+    "exchange_rate": 89500,
+    "estimated_gdp": 110442.21,
+    "population": 6825442,
+    "flag": "https://flagcdn.com/lb.svg",
+    "currencies": [
+      {
+        "code": "LBP",
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 125,
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "region": "Africa",
+    "exchange_rate": 17.333178,
+    "estimated_gdp": 168305438.23,
+    "population": 2142252,
+    "flag": "https://flagcdn.com/ls.svg",
+    "currencies": [
+      {
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 126,
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "exchange_rate": 182.863716,
+    "estimated_gdp": 44474552.97,
+    "population": 5057677,
+    "flag": "https://flagcdn.com/lr.svg",
+    "currencies": [
+      {
+        "code": "LRD",
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 127,
+    "name": "Libya",
+    "capital": "Tripoli",
+    "region": "Africa",
+    "exchange_rate": 5.434462,
+    "estimated_gdp": 1790314874.83,
+    "population": 6871287,
+    "flag": "https://flagcdn.com/ly.svg",
+    "currencies": [
+      {
+        "code": "LYD",
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 128,
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "exchange_rate": 0.795965,
+    "estimated_gdp": 81816379.1,
+    "population": 38137,
+    "flag": "https://flagcdn.com/li.svg",
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 129,
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 6409197397.81,
+    "population": 2794700,
+    "flag": "https://flagcdn.com/lt.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 130,
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 1229728218.89,
+    "population": 632275,
+    "flag": "https://flagcdn.com/lu.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 131,
+    "name": "Macao",
+    "capital": null,
+    "region": "Asia",
+    "exchange_rate": 8.004473,
+    "estimated_gdp": 117035888.49,
+    "population": 649342,
+    "flag": "https://flagcdn.com/mo.svg",
+    "currencies": [
+      {
+        "code": "MOP",
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 132,
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "region": "Europe",
+    "exchange_rate": 53.081847,
+    "estimated_gdp": 70951485.5,
+    "population": 2083380,
+    "flag": "https://flagcdn.com/mk.svg",
+    "currencies": [
+      {
+        "code": "MKD",
+        "name": "Macedonian denar",
+        "symbol": "ден"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 133,
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "exchange_rate": 4503.165808,
+    "estimated_gdp": 6416056.25,
+    "population": 27691019,
+    "flag": "https://flagcdn.com/mg.svg",
+    "currencies": [
+      {
+        "code": "MGA",
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 134,
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "exchange_rate": 1741.444752,
+    "estimated_gdp": 16336668.28,
+    "population": 19129955,
+    "flag": "https://flagcdn.com/mw.svg",
+    "currencies": [
+      {
+        "code": "MWK",
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 135,
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "exchange_rate": 4.229583,
+    "estimated_gdp": 13781646393.36,
+    "population": 32365998,
+    "flag": "https://flagcdn.com/my.svg",
+    "currencies": [
+      {
+        "code": "MYR",
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 136,
+    "name": "Maldives",
+    "capital": "Malé",
+    "region": "Asia",
+    "exchange_rate": 15.426929,
+    "estimated_gdp": 49495751.89,
+    "population": 540542,
+    "flag": "https://flagcdn.com/mv.svg",
+    "currencies": [
+      {
+        "code": "MVR",
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 137,
+    "name": "Mali",
+    "capital": "Bamako",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 71536153.41,
+    "population": 20250834,
+    "flag": "https://flagcdn.com/ml.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 138,
+    "name": "Malta",
+    "capital": "Valletta",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 1173306793.05,
+    "population": 525285,
+    "flag": "https://flagcdn.com/mt.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 139,
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "exchange_rate": 1,
+    "estimated_gdp": 77288476.02,
+    "population": 59194,
+    "flag": "https://flagcdn.com/mh.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 140,
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 837932311.68,
+    "population": 378243,
+    "flag": "https://flagcdn.com/mq.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 141,
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "exchange_rate": null,
+    "estimated_gdp": null,
+    "population": 4649660,
+    "flag": "https://flagcdn.com/mr.svg",
+    "currencies": [
+      {
+        "code": "MRO",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:19.597Z"
+  },
+  {
+    "id": 142,
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "exchange_rate": 45.524821,
+    "estimated_gdp": 47194116.82,
+    "population": 1265740,
+    "flag": "https://flagcdn.com/mu.svg",
+    "currencies": [
+      {
+        "code": "MUR",
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 143,
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 416411676.15,
+    "population": 226915,
+    "flag": "https://flagcdn.com/yt.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 144,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "exchange_rate": 18.4044,
+    "estimated_gdp": 11752149797.62,
+    "population": 128932753,
+    "flag": "https://flagcdn.com/mx.svg",
+    "currencies": [
+      {
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 145,
+    "name": "Micronesia (Federated States of)",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "exchange_rate": 1,
+    "estimated_gdp": 189139622.21,
+    "population": 115021,
+    "flag": "https://flagcdn.com/fm.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 146,
+    "name": "Moldova (Republic of)",
+    "capital": "Chișinău",
+    "region": "Europe",
+    "exchange_rate": 17.023464,
+    "estimated_gdp": 288808894.17,
+    "population": 2617820,
+    "flag": "https://flagcdn.com/md.svg",
+    "currencies": [
+      {
+        "code": "MDL",
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 147,
+    "name": "Monaco",
+    "capital": "Monaco",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 59665612.26,
+    "population": 39244,
+    "flag": "https://flagcdn.com/mc.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 148,
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "exchange_rate": 3592.452219,
+    "estimated_gdp": 1442722.5,
+    "population": 3278292,
+    "flag": "https://flagcdn.com/mn.svg",
+    "currencies": [
+      {
+        "code": "MNT",
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 149,
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 1293235170.69,
+    "population": 621718,
+    "flag": "https://flagcdn.com/me.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 150,
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 3106676.35,
+    "population": 4922,
+    "flag": "https://flagcdn.com/ms.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 151,
+    "name": "Morocco",
+    "capital": "Rabat",
+    "region": "Africa",
+    "exchange_rate": 9.242257,
+    "estimated_gdp": 6111906349.13,
+    "population": 36910558,
+    "flag": "https://flagcdn.com/ma.svg",
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 152,
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "region": "Africa",
+    "exchange_rate": 63.654573,
+    "estimated_gdp": 740206076.09,
+    "population": 31255435,
+    "flag": "https://flagcdn.com/mz.svg",
+    "currencies": [
+      {
+        "code": "MZN",
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 153,
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "exchange_rate": 2101.255883,
+    "estimated_gdp": 47610382.91,
+    "population": 54409794,
+    "flag": "https://flagcdn.com/mm.svg",
+    "currencies": [
+      {
+        "code": "MMK",
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 154,
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "exchange_rate": 17.333178,
+    "estimated_gdp": 182281063.27,
+    "population": 2540916,
+    "flag": "https://flagcdn.com/na.svg",
+    "currencies": [
+      {
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 155,
+    "name": "Nauru",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 7375876.73,
+    "population": 10834,
+    "flag": "https://flagcdn.com/nr.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 156,
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "exchange_rate": 140.571739,
+    "estimated_gdp": 236451033.55,
+    "population": 29136808,
+    "flag": "https://flagcdn.com/np.svg",
+    "currencies": [
+      {
+        "code": "NPR",
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 157,
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 26659570629.39,
+    "population": 17441139,
+    "flag": "https://flagcdn.com/nl.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 158,
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "exchange_rate": 102.794877,
+    "estimated_gdp": 3258692.43,
+    "population": 271960,
+    "flag": "https://flagcdn.com/nc.svg",
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 159,
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "exchange_rate": 1.738733,
+    "estimated_gdp": 5843112519.37,
+    "population": 5084300,
+    "flag": "https://flagcdn.com/nz.svg",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 160,
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "region": "Americas",
+    "exchange_rate": 36.772992,
+    "estimated_gdp": 334165068.19,
+    "population": 6624554,
+    "flag": "https://flagcdn.com/ni.svg",
+    "currencies": [
+      {
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 161,
+    "name": "Niger",
+    "capital": "Niamey",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 64068099.72,
+    "population": 24206636,
+    "flag": "https://flagcdn.com/ne.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 163,
+    "name": "Niue",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "exchange_rate": 1.738733,
+    "estimated_gdp": 1148381.18,
+    "population": 1470,
+    "flag": "https://flagcdn.com/nu.svg",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "NZD",
+        "name": "Niue dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 164,
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 1556876.14,
+    "population": 2302,
+    "flag": "https://flagcdn.com/nf.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 165,
+    "name": "Korea (Democratic People's Republic of)",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "exchange_rate": null,
+    "estimated_gdp": null,
+    "population": 25778815,
+    "flag": "https://flagcdn.com/kp.svg",
+    "currencies": [
+      {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:19.597Z"
+  },
+  {
+    "id": 166,
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "exchange_rate": 1,
+    "estimated_gdp": 94284260.14,
+    "population": 57557,
+    "flag": "https://flagcdn.com/mp.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 167,
+    "name": "Norway",
+    "capital": "Oslo",
+    "region": "Europe",
+    "exchange_rate": 9.976001,
+    "estimated_gdp": 1006255918.52,
+    "population": 5379475,
+    "flag": "https://flagcdn.com/no.svg",
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 168,
+    "name": "Oman",
+    "capital": "Muscat",
+    "region": "Asia",
+    "exchange_rate": 0.384497,
+    "estimated_gdp": 13854824189.86,
+    "population": 5106622,
+    "flag": "https://flagcdn.com/om.svg",
+    "currencies": [
+      {
+        "code": "OMR",
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 169,
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "exchange_rate": 283.261794,
+    "estimated_gdp": 1194792414.16,
+    "population": 220892331,
+    "flag": "https://flagcdn.com/pk.svg",
+    "currencies": [
+      {
+        "code": "PKR",
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 170,
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "exchange_rate": 1,
+    "estimated_gdp": 23198344.47,
+    "population": 18092,
+    "flag": "https://flagcdn.com/pw.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 171,
+    "name": "Palestine, State of",
+    "capital": "Ramallah",
+    "region": "Asia",
+    "exchange_rate": 47.590897,
+    "estimated_gdp": 147786454.99,
+    "population": 4803269,
+    "flag": "https://flagcdn.com/ps.svg",
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.أ"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 172,
+    "name": "Panama",
+    "capital": "Panama City",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 5960280239.23,
+    "population": 4314768,
+    "flag": "https://flagcdn.com/pa.svg",
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 173,
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "exchange_rate": 4.203736,
+    "estimated_gdp": 3207737321.45,
+    "population": 8947027,
+    "flag": "https://flagcdn.com/pg.svg",
+    "currencies": [
+      {
+        "code": "PGK",
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 174,
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "region": "Americas",
+    "exchange_rate": 7083.404121,
+    "estimated_gdp": 1561487.9,
+    "population": 7132530,
+    "flag": "https://flagcdn.com/py.svg",
+    "currencies": [
+      {
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 175,
+    "name": "Peru",
+    "capital": "Lima",
+    "region": "Americas",
+    "exchange_rate": 3.397781,
+    "estimated_gdp": 15862078828.45,
+    "population": 32971846,
+    "flag": "https://flagcdn.com/pe.svg",
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 176,
+    "name": "Philippines",
+    "capital": "Manila",
+    "region": "Asia",
+    "exchange_rate": 58.620252,
+    "estimated_gdp": 3210983345.66,
+    "population": 109581085,
+    "flag": "https://flagcdn.com/ph.svg",
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 177,
+    "name": "Pitcairn",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "exchange_rate": 1.738733,
+    "estimated_gdp": 59733.96,
+    "population": 56,
+    "flag": "https://flagcdn.com/pn.svg",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "PND",
+        "name": "Pitcairn Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 178,
+    "name": "Poland",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "exchange_rate": 3.644947,
+    "estimated_gdp": 12169692654.88,
+    "population": 37950802,
+    "flag": "https://flagcdn.com/pl.svg",
+    "currencies": [
+      {
+        "code": "PLN",
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 179,
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 12964266303.57,
+    "population": 10305564,
+    "flag": "https://flagcdn.com/pt.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 180,
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 5386533560.67,
+    "population": 3194034,
+    "flag": "https://flagcdn.com/pr.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 181,
+    "name": "Qatar",
+    "capital": "Doha",
+    "region": "Asia",
+    "exchange_rate": 3.64,
+    "estimated_gdp": 1421299008.62,
+    "population": 2881060,
+    "flag": "https://flagcdn.com/qa.svg",
+    "currencies": [
+      {
+        "code": "QAR",
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 182,
+    "name": "Republic of Kosovo",
+    "capital": "Pristina",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 2785659791.07,
+    "population": 1775378,
+    "flag": "https://flagcdn.com/xk.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 183,
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 1676164008.87,
+    "population": 840974,
+    "flag": "https://flagcdn.com/re.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 184,
+    "name": "Romania",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "exchange_rate": 4.382255,
+    "estimated_gdp": 8544621042.96,
+    "population": 19286123,
+    "flag": "https://flagcdn.com/ro.svg",
+    "currencies": [
+      {
+        "code": "RON",
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 185,
+    "name": "Russian Federation",
+    "capital": "Moscow",
+    "region": "Europe",
+    "exchange_rate": 81.342564,
+    "estimated_gdp": 1879048940.91,
+    "population": 144104080,
+    "flag": "https://flagcdn.com/ru.svg",
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 186,
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "region": "Africa",
+    "exchange_rate": 1454.841966,
+    "estimated_gdp": 16143941.33,
+    "population": 12952209,
+    "flag": "https://flagcdn.com/rw.svg",
+    "currencies": [
+      {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 187,
+    "name": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 19930915.36,
+    "population": 9417,
+    "flag": "https://flagcdn.com/bl.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 188,
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 7105774.5,
+    "population": 4255,
+    "flag": "https://flagcdn.com/sh.svg",
+    "currencies": [
+      {
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 189,
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 30216752.26,
+    "population": 53192,
+    "flag": "https://flagcdn.com/kn.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 190,
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 77491891.74,
+    "population": 183629,
+    "flag": "https://flagcdn.com/lc.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 191,
+    "name": "Saint Martin (French part)",
+    "capital": "Marigot",
+    "region": "Americas",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 73435462.36,
+    "population": 38659,
+    "flag": "https://flagcdn.com/mf.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 192,
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 13102814.55,
+    "population": 6069,
+    "flag": "https://flagcdn.com/pm.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 193,
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "exchange_rate": 2.7,
+    "estimated_gdp": 47413499.02,
+    "population": 110947,
+    "flag": "https://flagcdn.com/vc.svg",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 194,
+    "name": "Samoa",
+    "capital": "Apia",
+    "region": "Oceania",
+    "exchange_rate": 2.77347,
+    "estimated_gdp": 85201820.74,
+    "population": 198410,
+    "flag": "https://flagcdn.com/ws.svg",
+    "currencies": [
+      {
+        "code": "WST",
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 195,
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 69063226.11,
+    "population": 33938,
+    "flag": "https://flagcdn.com/sm.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 196,
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "region": "Africa",
+    "exchange_rate": null,
+    "estimated_gdp": null,
+    "population": 219161,
+    "flag": "https://flagcdn.com/st.svg",
+    "currencies": [
+      {
+        "code": "STD",
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:19.597Z"
+  },
+  {
+    "id": 197,
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "exchange_rate": 3.75,
+    "estimated_gdp": 16423085804.94,
+    "population": 34813867,
+    "flag": "https://flagcdn.com/sa.svg",
+    "currencies": [
+      {
+        "code": "SAR",
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 198,
+    "name": "Senegal",
+    "capital": "Dakar",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 35021976.18,
+    "population": 16743930,
+    "flag": "https://flagcdn.com/sn.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 199,
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "exchange_rate": 101.009124,
+    "estimated_gdp": 114096345.31,
+    "population": 6908224,
+    "flag": "https://flagcdn.com/rs.svg",
+    "currencies": [
+      {
+        "code": "RSD",
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 200,
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "region": "Africa",
+    "exchange_rate": 14.269096,
+    "estimated_gdp": 7530555.72,
+    "population": 98462,
+    "flag": "https://flagcdn.com/sc.svg",
+    "currencies": [
+      {
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 201,
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Africa",
+    "exchange_rate": 23.168064,
+    "estimated_gdp": 406139283.48,
+    "population": 7976985,
+    "flag": "https://flagcdn.com/sl.svg",
+    "currencies": [
+      {
+        "code": "SLE",
+        "name": "Leone",
+        "symbol": "Le"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 202,
+    "name": "Singapore",
+    "capital": "Singapore",
+    "region": "Asia",
+    "exchange_rate": 1.298872,
+    "estimated_gdp": 4742356500.3,
+    "population": 5685807,
+    "flag": "https://flagcdn.com/sg.svg",
+    "currencies": [
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 203,
+    "name": "Sint Maarten (Dutch part)",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "exchange_rate": 1.79,
+    "estimated_gdp": 41210040.56,
+    "population": 40812,
+    "flag": "https://flagcdn.com/sx.svg",
+    "currencies": [
+      {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 204,
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 10466995990.61,
+    "population": 5458827,
+    "flag": "https://flagcdn.com/sk.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 205,
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 4762476451.65,
+    "population": 2100126,
+    "flag": "https://flagcdn.com/si.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 206,
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "exchange_rate": 8.208497,
+    "estimated_gdp": 157408739.9,
+    "population": 686878,
+    "flag": "https://flagcdn.com/sb.svg",
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 207,
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "exchange_rate": 570.364003,
+    "estimated_gdp": 52941357.07,
+    "population": 15893219,
+    "flag": "https://flagcdn.com/so.svg",
+    "currencies": [
+      {
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 208,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "exchange_rate": 17.333195,
+    "estimated_gdp": 5239984678,
+    "population": 59308690,
+    "flag": "https://flagcdn.com/za.svg",
+    "currencies": [
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 209,
+    "name": "South Georgia and the South Sandwich Islands",
+    "capital": "King Edward Point",
+    "region": "Americas",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 63088.96,
+    "population": 30,
+    "flag": "https://flagcdn.com/gs.svg",
+    "currencies": [
+      {
+        "code": "FKP",
+        "name": "Falkland Islands Pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 210,
+    "name": "Korea (Republic of)",
+    "capital": "Seoul",
+    "region": "Asia",
+    "exchange_rate": 1437.599025,
+    "estimated_gdp": 58140882.1,
+    "population": 51780579,
+    "flag": "https://flagcdn.com/kr.svg",
+    "currencies": [
+      {
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 211,
+    "name": "Spain",
+    "capital": "Madrid",
+    "region": "Europe",
+    "exchange_rate": 0.86142,
+    "estimated_gdp": 88969001099.67,
+    "population": 47351567,
+    "flag": "https://flagcdn.com/es.svg",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 212,
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Asia",
+    "exchange_rate": 303.092873,
+    "estimated_gdp": 86647994.83,
+    "population": 21919000,
+    "flag": "https://flagcdn.com/lk.svg",
+    "currencies": [
+      {
+        "code": "LKR",
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 213,
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "exchange_rate": 511.498269,
+    "estimated_gdp": 133068266.79,
+    "population": 43849269,
+    "flag": "https://flagcdn.com/sd.svg",
+    "currencies": [
+      {
+        "code": "SDG",
+        "name": "Sudanese pound",
+        "symbol": "ج.س."
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 214,
+    "name": "South Sudan",
+    "capital": "Juba",
+    "region": "Africa",
+    "exchange_rate": 4668.189451,
+    "estimated_gdp": 2864175.97,
+    "population": 11193729,
+    "flag": "https://flagcdn.com/ss.svg",
+    "currencies": [
+      {
+        "code": "SSP",
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 215,
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "exchange_rate": 39.752775,
+    "estimated_gdp": 26809990.11,
+    "population": 586634,
+    "flag": "https://flagcdn.com/sr.svg",
+    "currencies": [
+      {
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 216,
+    "name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "exchange_rate": 9.976001,
+    "estimated_gdp": 473847.43,
+    "population": 2562,
+    "flag": "https://flagcdn.com/sj.svg",
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 217,
+    "name": "Swaziland",
+    "capital": "Mbabane",
+    "region": "Africa",
+    "exchange_rate": 17.333178,
+    "estimated_gdp": 83089315.63,
+    "population": 1160164,
+    "flag": "https://flagcdn.com/sz.svg",
+    "currencies": [
+      {
+        "code": "SZL",
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 218,
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "exchange_rate": 9.389414,
+    "estimated_gdp": 1520473081.5,
+    "population": 10353442,
+    "flag": "https://flagcdn.com/se.svg",
+    "currencies": [
+      {
+        "code": "SEK",
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 219,
+    "name": "Switzerland",
+    "capital": "Bern",
+    "region": "Europe",
+    "exchange_rate": 0.795965,
+    "estimated_gdp": 13154000352.27,
+    "population": 8636896,
+    "flag": "https://flagcdn.com/ch.svg",
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 220,
+    "name": "Syrian Arab Republic",
+    "capital": "Damascus",
+    "region": "Asia",
+    "exchange_rate": 11012.289021,
+    "estimated_gdp": 1830187.76,
+    "population": 17500657,
+    "flag": "https://flagcdn.com/sy.svg",
+    "currencies": [
+      {
+        "code": "SYP",
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 221,
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "region": "Asia",
+    "exchange_rate": 30.774071,
+    "estimated_gdp": 932621077.54,
+    "population": 23503349,
+    "flag": "https://flagcdn.com/tw.svg",
+    "currencies": [
+      {
+        "code": "TWD",
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 222,
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "exchange_rate": 9.215083,
+    "estimated_gdp": 2006203184.92,
+    "population": 9537642,
+    "flag": "https://flagcdn.com/tj.svg",
+    "currencies": [
+      {
+        "code": "TJS",
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 223,
+    "name": "Tanzania, United Republic of",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "exchange_rate": 2484.046002,
+    "estimated_gdp": 33889704.79,
+    "population": 59734213,
+    "flag": "https://flagcdn.com/tz.svg",
+    "currencies": [
+      {
+        "code": "TZS",
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 224,
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "exchange_rate": 32.797965,
+    "estimated_gdp": 2885944537.89,
+    "population": 69799978,
+    "flag": "https://flagcdn.com/th.svg",
+    "currencies": [
+      {
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 225,
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "region": "Asia",
+    "exchange_rate": 1,
+    "estimated_gdp": 2214376852.67,
+    "population": 1318442,
+    "flag": "https://flagcdn.com/tl.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 226,
+    "name": "Togo",
+    "capital": "Lomé",
+    "region": "Africa",
+    "exchange_rate": 565.053959,
+    "estimated_gdp": 19724260.63,
+    "population": 8278737,
+    "flag": "https://flagcdn.com/tg.svg",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 227,
+    "name": "Tokelau",
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "exchange_rate": 1.738733,
+    "estimated_gdp": 851110.22,
+    "population": 1411,
+    "flag": "https://flagcdn.com/tk.svg",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 228,
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "exchange_rate": 2.357702,
+    "estimated_gdp": 51833246.4,
+    "population": 105697,
+    "flag": "https://flagcdn.com/to.svg",
+    "currencies": [
+      {
+        "code": "TOP",
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 229,
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "exchange_rate": 6.777949,
+    "estimated_gdp": 256253850.62,
+    "population": 1399491,
+    "flag": "https://flagcdn.com/tt.svg",
+    "currencies": [
+      {
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 230,
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "region": "Africa",
+    "exchange_rate": 2.937271,
+    "estimated_gdp": 6681824217.1,
+    "population": 11818618,
+    "flag": "https://flagcdn.com/tn.svg",
+    "currencies": [
+      {
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 231,
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "exchange_rate": 42.054663,
+    "estimated_gdp": 2086955027.06,
+    "population": 84339067,
+    "flag": "https://flagcdn.com/tr.svg",
+    "currencies": [
+      {
+        "code": "TRY",
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 232,
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "exchange_rate": 3.498831,
+    "estimated_gdp": 2232041791.13,
+    "population": 6031187,
+    "flag": "https://flagcdn.com/tm.svg",
+    "currencies": [
+      {
+        "code": "TMT",
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 233,
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 53060987.51,
+    "population": 38718,
+    "flag": "https://flagcdn.com/tc.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 234,
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "exchange_rate": 1.535982,
+    "estimated_gdp": 9492156.12,
+    "population": 11792,
+    "flag": "https://flagcdn.com/tv.svg",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "TVD[G]",
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 235,
+    "name": "Uganda",
+    "capital": "Kampala",
+    "region": "Africa",
+    "exchange_rate": 3463.919184,
+    "estimated_gdp": 25114640.72,
+    "population": 45741000,
+    "flag": "https://flagcdn.com/ug.svg",
+    "currencies": [
+      {
+        "code": "UGX",
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 236,
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "region": "Europe",
+    "exchange_rate": 41.892862,
+    "estimated_gdp": 1347431374.96,
+    "population": 44134693,
+    "flag": "https://flagcdn.com/ua.svg",
+    "currencies": [
+      {
+        "code": "UAH",
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 237,
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "exchange_rate": 3.6725,
+    "estimated_gdp": 5195140312.9,
+    "population": 9890400,
+    "flag": "https://flagcdn.com/ae.svg",
+    "currencies": [
+      {
+        "code": "AED",
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 238,
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "region": "Europe",
+    "exchange_rate": 0.750156,
+    "estimated_gdp": 90552348269.07,
+    "population": 67215293,
+    "flag": "https://flagcdn.com/gb.svg",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 239,
+    "name": "United States of America",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "exchange_rate": 1,
+    "estimated_gdp": 425434180815.73,
+    "population": 329484123,
+    "flag": "https://flagcdn.com/us.svg",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 240,
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "exchange_rate": 39.77587,
+    "estimated_gdp": 126078356.84,
+    "population": 3473727,
+    "flag": "https://flagcdn.com/uy.svg",
+    "currencies": [
+      {
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 241,
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "exchange_rate": 12125.249793,
+    "estimated_gdp": 3628139.89,
+    "population": 34232050,
+    "flag": "https://flagcdn.com/uz.svg",
+    "currencies": [
+      {
+        "code": "UZS",
+        "name": "Uzbekistani so'm",
+        "symbol": "so'm"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 242,
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "exchange_rate": 122.170278,
+    "estimated_gdp": 2859167.59,
+    "population": 307150,
+    "flag": "https://flagcdn.com/vu.svg",
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 243,
+    "name": "Venezuela (Bolivarian Republic of)",
+    "capital": "Caracas",
+    "region": "Americas",
+    "exchange_rate": null,
+    "estimated_gdp": null,
+    "population": 28435943,
+    "flag": "https://flagcdn.com/ve.svg",
+    "currencies": [
+      {
+        "code": "VEF",
+        "name": "Venezuelan bolívar",
+        "symbol": "Bs S"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:19.597Z"
+  },
+  {
+    "id": 244,
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "exchange_rate": 26226.607644,
+    "estimated_gdp": 6875270.81,
+    "population": 97338583,
+    "flag": "https://flagcdn.com/vn.svg",
+    "currencies": [
+      {
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 245,
+    "name": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "exchange_rate": 102.794877,
+    "estimated_gdp": 214795.34,
+    "population": 11750,
+    "flag": "https://flagcdn.com/wf.svg",
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 246,
+    "name": "Western Sahara",
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "exchange_rate": 9.242257,
+    "estimated_gdp": 91281990.76,
+    "population": 510713,
+    "flag": "https://flagcdn.com/eh.svg",
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      },
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ],
+    "independent": false,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 247,
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "region": "Asia",
+    "exchange_rate": 238.760101,
+    "estimated_gdp": 153250584,
+    "population": 29825968,
+    "flag": "https://flagcdn.com/ye.svg",
+    "currencies": [
+      {
+        "code": "YER",
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 248,
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "exchange_rate": 22.463648,
+    "estimated_gdp": 1096957419.63,
+    "population": 18383956,
+    "flag": "https://flagcdn.com/zm.svg",
+    "currencies": [
+      {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  },
+  {
+    "id": 249,
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Africa",
+    "exchange_rate": 22.463648,
+    "estimated_gdp": 675106637.09,
+    "population": 14862927,
+    "flag": "https://flagcdn.com/zw.svg",
+    "currencies": [
+      {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "K"
+      }
+    ],
+    "independent": true,
+    "last_refreshed_at": "2025-10-24T18:26:20.963Z"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "country-identifier",
+  "version": "1.0.0",
+  "description": "GraphQL server for country data",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "graphql",
+    "countries"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "body-parser": "^2.2.0",
+    "canvas": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "graphql": "^16.9.0",
+    "node-fetch": "^3.3.2"
+  }
+}
