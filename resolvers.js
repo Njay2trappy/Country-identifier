@@ -4,8 +4,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { createCanvas } from 'canvas';
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -19,6 +17,8 @@ let countryStore = [];
 let cachedFetch = null;
 let nextId = 1;
 let lastRefreshedAt = null;
+let createCanvasFn = null;
+let canvasLoadAttempted = false;
 
 // Helper function to ensure fetch is available
 async function ensureFetch() {
@@ -32,6 +32,26 @@ async function ensureFetch() {
   }
 
   return cachedFetch;
+}
+
+async function ensureCanvas() {
+  if (createCanvasFn || canvasLoadAttempted) {
+    return createCanvasFn;
+  }
+
+  canvasLoadAttempted = true;
+  try {
+    const { createCanvas } = await import('canvas');
+    createCanvasFn = createCanvas;
+  } catch (error) {
+    console.warn(
+      'Canvas dependency not available. Summary image generation is disabled until "canvas" is installed.',
+      error?.message || error
+    );
+    createCanvasFn = null;
+  }
+
+  return createCanvasFn;
 }
 
 // HTTP GET JSON helper
@@ -489,6 +509,15 @@ const root = {
         return {
           success: false,
           message: 'No countries stored in database. Please run storeCountries and addExchangeRates first.',
+          image_path: null,
+        };
+      }
+
+      const createCanvas = await ensureCanvas();
+      if (!createCanvas) {
+        return {
+          success: false,
+          message: 'Canvas dependency not installed. Run "npm install canvas" to enable summary image generation.',
           image_path: null,
         };
       }

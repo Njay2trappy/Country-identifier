@@ -169,15 +169,6 @@ app.get('/countries', async (req, res) => {
     };
 
     const countries = await root.getCountries(filters);
-
-    const validation = validateCountryResponses(countries);
-    if (!validation.valid) {
-      return sendErrorResponse(res, 'VALIDATION', {
-        message: formatMissingFields(Object.keys(validation.details)),
-        details: validation.details,
-      });
-    }
-
     res.status(200).json(countries);
   } catch (error) {
     if (error?.errorType === 'VALIDATION') {
