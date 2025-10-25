@@ -194,7 +194,15 @@ app.get('/countries/image', async (_req, res) => {
       });
     }
 
-    return res.sendFile(result.image_path);
+    const imagePath = result.image_path ?? SUMMARY_IMAGE_PATH;
+    return res.sendFile(imagePath, (err) => {
+      if (err) {
+        console.error('Error sending summary image:', err);
+        return res.status(404).json({
+          error: 'Summary image not found',
+        });
+      }
+    });
   } catch (error) {
     console.error(
       'Unexpected error in GET /countries/image:',
