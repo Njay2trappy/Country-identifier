@@ -5,7 +5,7 @@
     "capital": "Kabul",
     "region": "Asia",
     "exchange_rate": 66.205746,
-    "estimated_gdp": 620698691.07,
+    "estimated_gdp": 1138356338.47,
     "population": 40218234,
     "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
     "currencies": [
@@ -16,7 +16,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 2,
@@ -24,7 +24,7 @@
     "capital": "Mariehamn",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 41377055.01,
+    "estimated_gdp": 61079913.4,
     "population": 28875,
     "flag": "https://flagcdn.com/ax.svg",
     "currencies": [
@@ -35,7 +35,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 3,
@@ -43,7 +43,7 @@
     "capital": "Tirana",
     "region": "Europe",
     "exchange_rate": 83.009089,
-    "estimated_gdp": 59961685.38,
+    "estimated_gdp": 36276912.79,
     "population": 2837743,
     "flag": "https://flagcdn.com/al.svg",
     "currencies": [
@@ -54,7 +54,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 4,
@@ -62,7 +62,7 @@
     "capital": "Algiers",
     "region": "Africa",
     "exchange_rate": 130.161814,
-    "estimated_gdp": 528653752.62,
+    "estimated_gdp": 535231204.41,
     "population": 44700000,
     "flag": "https://flagcdn.com/dz.svg",
     "currencies": [
@@ -73,7 +73,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 5,
@@ -81,7 +81,7 @@
     "capital": "Pago Pago",
     "region": "Oceania",
     "exchange_rate": 1,
-    "estimated_gdp": 57036044.58,
+    "estimated_gdp": 96598976.04,
     "population": 55197,
     "flag": "https://flagcdn.com/as.svg",
     "currencies": [
@@ -92,7 +92,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 6,
@@ -100,7 +100,7 @@
     "capital": "Andorra la Vella",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 115413697.43,
+    "estimated_gdp": 153963595.41,
     "population": 77265,
     "flag": "https://flagcdn.com/ad.svg",
     "currencies": [
@@ -111,7 +111,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 7,
@@ -119,7 +119,7 @@
     "capital": "Luanda",
     "region": "Africa",
     "exchange_rate": 920.939054,
-    "estimated_gdp": 50835775.82,
+    "estimated_gdp": 57345182.41,
     "population": 32866268,
     "flag": "https://flagcdn.com/ao.svg",
     "currencies": [
@@ -130,7 +130,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 8,
@@ -138,7 +138,7 @@
     "capital": "The Valley",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 8773270.58,
+    "estimated_gdp": 8224038.6,
     "population": 13452,
     "flag": "https://flagcdn.com/ai.svg",
     "currencies": [
@@ -149,7 +149,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 9,
@@ -162,7 +162,7 @@
     "flag": "https://flagcdn.com/aq.svg",
     "currencies": [],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:12.135Z"
+    "last_refreshed_at": "2025-10-25T13:38:40.186Z"
   },
   {
     "id": 10,
@@ -170,7 +170,7 @@
     "capital": "Saint John's",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 61603310.56,
+    "estimated_gdp": 44206603.19,
     "population": 97928,
     "flag": "https://flagcdn.com/ag.svg",
     "currencies": [
@@ -181,7 +181,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "capital": "Buenos Aires",
     "region": "Americas",
     "exchange_rate": 1485.92,
-    "estimated_gdp": 58120553.86,
+    "estimated_gdp": 55824386.3,
     "population": 45376763,
     "flag": "https://flagcdn.com/ar.svg",
     "currencies": [
@@ -200,7 +200,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 12,
@@ -208,7 +208,7 @@
     "capital": "Yerevan",
     "region": "Asia",
     "exchange_rate": 381.928581,
-    "estimated_gdp": 7955851.69,
+    "estimated_gdp": 13881145.54,
     "population": 2963234,
     "flag": "https://flagcdn.com/am.svg",
     "currencies": [
@@ -219,7 +219,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 13,
@@ -227,7 +227,7 @@
     "capital": "Oranjestad",
     "region": "Americas",
     "exchange_rate": 1.79,
-    "estimated_gdp": 97288321.61,
+    "estimated_gdp": 77797309.31,
     "population": 106766,
     "flag": "https://flagcdn.com/aw.svg",
     "currencies": [
@@ -238,7 +238,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 14,
@@ -246,7 +246,7 @@
     "capital": "Canberra",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 20704731047.1,
+    "estimated_gdp": 19706264361.42,
     "population": 25687041,
     "flag": "https://flagcdn.com/au.svg",
     "currencies": [
@@ -257,7 +257,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 15,
@@ -265,7 +265,7 @@
     "capital": "Vienna",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 19827170135.05,
+    "estimated_gdp": 11009824198.28,
     "population": 8917205,
     "flag": "https://flagcdn.com/at.svg",
     "currencies": [
@@ -276,7 +276,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 16,
@@ -284,7 +284,7 @@
     "capital": "Baku",
     "region": "Asia",
     "exchange_rate": 1.696728,
-    "estimated_gdp": 11422614118.68,
+    "estimated_gdp": 7167742756.5,
     "population": 10110116,
     "flag": "https://flagcdn.com/az.svg",
     "currencies": [
@@ -295,7 +295,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 17,
@@ -303,7 +303,7 @@
     "capital": "Nassau",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 457106980.98,
+    "estimated_gdp": 706475737,
     "population": 393248,
     "flag": "https://flagcdn.com/bs.svg",
     "currencies": [
@@ -314,7 +314,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 18,
@@ -322,7 +322,7 @@
     "capital": "Manama",
     "region": "Asia",
     "exchange_rate": 0.376,
-    "estimated_gdp": 6519537535.18,
+    "estimated_gdp": 5950967074.61,
     "population": 1701583,
     "flag": "https://flagcdn.com/bh.svg",
     "currencies": [
@@ -333,7 +333,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 19,
@@ -341,7 +341,7 @@
     "capital": "Dhaka",
     "region": "Asia",
     "exchange_rate": 122.277797,
-    "estimated_gdp": 1664843787.64,
+    "estimated_gdp": 1964875303.95,
     "population": 164689383,
     "flag": "https://flagcdn.com/bd.svg",
     "currencies": [
@@ -352,7 +352,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 20,
@@ -360,7 +360,7 @@
     "capital": "Bridgetown",
     "region": "Americas",
     "exchange_rate": 2,
-    "estimated_gdp": 282364634.67,
+    "estimated_gdp": 276726930.01,
     "population": 287371,
     "flag": "https://flagcdn.com/bb.svg",
     "currencies": [
@@ -371,7 +371,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 21,
@@ -379,7 +379,7 @@
     "capital": "Minsk",
     "region": "Europe",
     "exchange_rate": 3.310524,
-    "estimated_gdp": 4926295990.19,
+    "estimated_gdp": 4156203629.79,
     "population": 9398861,
     "flag": "https://flagcdn.com/by.svg",
     "currencies": [
@@ -395,7 +395,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 22,
@@ -403,7 +403,7 @@
     "capital": "Brussels",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 15617264254.69,
+    "estimated_gdp": 15176143780.75,
     "population": 11555997,
     "flag": "https://flagcdn.com/be.svg",
     "currencies": [
@@ -414,7 +414,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 23,
@@ -422,7 +422,7 @@
     "capital": "Belmopan",
     "region": "Americas",
     "exchange_rate": 2,
-    "estimated_gdp": 349900276.76,
+    "estimated_gdp": 256909750.32,
     "population": 397621,
     "flag": "https://flagcdn.com/bz.svg",
     "currencies": [
@@ -433,7 +433,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 24,
@@ -441,7 +441,7 @@
     "capital": "Porto-Novo",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 26241567.95,
+    "estimated_gdp": 23954599.23,
     "population": 12123198,
     "flag": "https://flagcdn.com/bj.svg",
     "currencies": [
@@ -452,7 +452,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 25,
@@ -460,7 +460,7 @@
     "capital": "Hamilton",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 66363163,
+    "estimated_gdp": 108554475.13,
     "population": 63903,
     "flag": "https://flagcdn.com/bm.svg",
     "currencies": [
@@ -471,7 +471,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 26,
@@ -479,7 +479,7 @@
     "capital": "Thimphu",
     "region": "Asia",
     "exchange_rate": 87.857433,
-    "estimated_gdp": 17407365.15,
+    "estimated_gdp": 10818544.28,
     "population": 771612,
     "flag": "https://flagcdn.com/bt.svg",
     "currencies": [
@@ -495,7 +495,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 27,
@@ -503,7 +503,7 @@
     "capital": "Sucre",
     "region": "Americas",
     "exchange_rate": 6.90871,
-    "estimated_gdp": 1761970862.15,
+    "estimated_gdp": 1764426650.56,
     "population": 11673029,
     "flag": "https://flagcdn.com/bo.svg",
     "currencies": [
@@ -514,7 +514,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 28,
@@ -522,7 +522,7 @@
     "capital": "Kralendijk",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 21946370.59,
+    "estimated_gdp": 23546347.66,
     "population": 17408,
     "flag": "https://flagcdn.com/bq.svg",
     "currencies": [
@@ -533,7 +533,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 29,
@@ -541,7 +541,7 @@
     "capital": "Sarajevo",
     "region": "Europe",
     "exchange_rate": 1.682458,
-    "estimated_gdp": 3692205389.04,
+    "estimated_gdp": 3474716804.66,
     "population": 3280815,
     "flag": "https://flagcdn.com/ba.svg",
     "currencies": [
@@ -552,7 +552,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 30,
@@ -560,7 +560,7 @@
     "capital": "Gaborone",
     "region": "Africa",
     "exchange_rate": 14.133421,
-    "estimated_gdp": 226619991.03,
+    "estimated_gdp": 288244730.71,
     "population": 2351625,
     "flag": "https://flagcdn.com/bw.svg",
     "currencies": [
@@ -571,7 +571,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 31,
@@ -590,7 +590,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 32,
@@ -598,7 +598,7 @@
     "capital": "Brasília",
     "region": "Americas",
     "exchange_rate": 5.384676,
-    "estimated_gdp": 47580686484.87,
+    "estimated_gdp": 68293899539.18,
     "population": 212559409,
     "flag": "https://flagcdn.com/br.svg",
     "currencies": [
@@ -609,7 +609,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 33,
@@ -617,7 +617,7 @@
     "capital": "Diego Garcia",
     "region": "Africa",
     "exchange_rate": 1,
-    "estimated_gdp": 5863591.29,
+    "estimated_gdp": 3935753.81,
     "population": 3000,
     "flag": "https://flagcdn.com/io.svg",
     "currencies": [
@@ -628,7 +628,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 34,
@@ -636,7 +636,7 @@
     "capital": null,
     "region": "Americas",
     "exchange_rate": 0.751475,
-    "estimated_gdp": 483841.53,
+    "estimated_gdp": 677169.23,
     "population": 300,
     "flag": "https://flagcdn.com/um.svg",
     "currencies": [
@@ -647,7 +647,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 35,
@@ -655,7 +655,7 @@
     "capital": "Road Town",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 44259977.35,
+    "estimated_gdp": 57716807.81,
     "population": 30237,
     "flag": "https://flagcdn.com/vg.svg",
     "currencies": [
@@ -666,7 +666,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 36,
@@ -674,7 +674,7 @@
     "capital": "Charlotte Amalie",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 166941241.95,
+    "estimated_gdp": 137250345.37,
     "population": 106290,
     "flag": "https://flagcdn.com/vi.svg",
     "currencies": [
@@ -685,7 +685,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 37,
@@ -693,7 +693,7 @@
     "capital": "Bandar Seri Begawan",
     "region": "Asia",
     "exchange_rate": 1.298846,
-    "estimated_gdp": 423637810.98,
+    "estimated_gdp": 377750465.3,
     "population": 437483,
     "flag": "https://flagcdn.com/bn.svg",
     "currencies": [
@@ -709,7 +709,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 38,
@@ -717,7 +717,7 @@
     "capital": "Sofia",
     "region": "Europe",
     "exchange_rate": 1.68266,
-    "estimated_gdp": 7863813372.01,
+    "estimated_gdp": 6692581154.75,
     "population": 6927288,
     "flag": "https://flagcdn.com/bg.svg",
     "currencies": [
@@ -728,7 +728,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 39,
@@ -736,7 +736,7 @@
     "capital": "Ouagadougou",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 59403993.09,
+    "estimated_gdp": 53892753.7,
     "population": 20903278,
     "flag": "https://flagcdn.com/bf.svg",
     "currencies": [
@@ -747,7 +747,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 40,
@@ -755,7 +755,7 @@
     "capital": "Gitega",
     "region": "Africa",
     "exchange_rate": 2940.116692,
-    "estimated_gdp": 6956867.31,
+    "estimated_gdp": 6018101.29,
     "population": 11890781,
     "flag": "https://flagcdn.com/bi.svg",
     "currencies": [
@@ -766,7 +766,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 41,
@@ -774,7 +774,7 @@
     "capital": "Phnom Penh",
     "region": "Asia",
     "exchange_rate": 4021.913378,
-    "estimated_gdp": 6058919.32,
+    "estimated_gdp": 4786918.83,
     "population": 16718971,
     "flag": "https://flagcdn.com/kh.svg",
     "currencies": [
@@ -790,7 +790,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 42,
@@ -798,7 +798,7 @@
     "capital": "Yaoundé",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 81648224.9,
+    "estimated_gdp": 81200989.92,
     "population": 26545864,
     "flag": "https://flagcdn.com/cm.svg",
     "currencies": [
@@ -809,7 +809,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 43,
@@ -817,7 +817,7 @@
     "capital": "Ottawa",
     "region": "Americas",
     "exchange_rate": 1.40028,
-    "estimated_gdp": 28974923212.7,
+    "estimated_gdp": 50970641227.7,
     "population": 38005238,
     "flag": "https://flagcdn.com/ca.svg",
     "currencies": [
@@ -828,7 +828,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 44,
@@ -836,7 +836,7 @@
     "capital": "Praia",
     "region": "Africa",
     "exchange_rate": 94.852955,
-    "estimated_gdp": 9199336.58,
+    "estimated_gdp": 8901543.9,
     "population": 555988,
     "flag": "https://flagcdn.com/cv.svg",
     "currencies": [
@@ -847,7 +847,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 45,
@@ -855,7 +855,7 @@
     "capital": "George Town",
     "region": "Americas",
     "exchange_rate": 0.833333,
-    "estimated_gdp": 156082553.63,
+    "estimated_gdp": 151957854.39,
     "population": 65720,
     "flag": "https://flagcdn.com/ky.svg",
     "currencies": [
@@ -866,7 +866,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 46,
@@ -874,7 +874,7 @@
     "capital": "Bangui",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 11615162.65,
+    "estimated_gdp": 12673394.97,
     "population": 4829764,
     "flag": "https://flagcdn.com/cf.svg",
     "currencies": [
@@ -885,7 +885,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 47,
@@ -893,7 +893,7 @@
     "capital": "N'Djamena",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 31447875.75,
+    "estimated_gdp": 50350476.36,
     "population": 16425859,
     "flag": "https://flagcdn.com/td.svg",
     "currencies": [
@@ -904,7 +904,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 48,
@@ -912,7 +912,7 @@
     "capital": "Santiago",
     "region": "Americas",
     "exchange_rate": 945.190973,
-    "estimated_gdp": 32784412.04,
+    "estimated_gdp": 28648289.06,
     "population": 19116209,
     "flag": "https://flagcdn.com/cl.svg",
     "currencies": [
@@ -923,7 +923,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 49,
@@ -931,7 +931,7 @@
     "capital": "Beijing",
     "region": "Asia",
     "exchange_rate": 7.119919,
-    "estimated_gdp": 353322915084.16,
+    "estimated_gdp": 370492656983.67,
     "population": 1402112000,
     "flag": "https://flagcdn.com/cn.svg",
     "currencies": [
@@ -942,7 +942,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 50,
@@ -950,7 +950,7 @@
     "capital": "Flying Fish Cove",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 2214243.15,
+    "estimated_gdp": 2597640.66,
     "population": 2072,
     "flag": "https://flagcdn.com/cx.svg",
     "currencies": [
@@ -961,7 +961,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 51,
@@ -969,7 +969,7 @@
     "capital": "West Island",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 660117.31,
+    "estimated_gdp": 376189.01,
     "population": 550,
     "flag": "https://flagcdn.com/cc.svg",
     "currencies": [
@@ -980,7 +980,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 52,
@@ -988,7 +988,7 @@
     "capital": "Bogotá",
     "region": "Americas",
     "exchange_rate": 3885.524279,
-    "estimated_gdp": 18289119.65,
+    "estimated_gdp": 18059288.12,
     "population": 50882884,
     "flag": "https://flagcdn.com/co.svg",
     "currencies": [
@@ -999,7 +999,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 53,
@@ -1007,7 +1007,7 @@
     "capital": "Moroni",
     "region": "Africa",
     "exchange_rate": 423.204053,
-    "estimated_gdp": 2058099.11,
+    "estimated_gdp": 2544283.46,
     "population": 869595,
     "flag": "https://flagcdn.com/km.svg",
     "currencies": [
@@ -1018,7 +1018,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 54,
@@ -1026,7 +1026,7 @@
     "capital": "Brazzaville",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 12235185.51,
+    "estimated_gdp": 11583876.08,
     "population": 5518092,
     "flag": "https://flagcdn.com/cg.svg",
     "currencies": [
@@ -1037,7 +1037,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 55,
@@ -1045,7 +1045,7 @@
     "capital": "Kinshasa",
     "region": "Africa",
     "exchange_rate": 2217.090987,
-    "estimated_gdp": 47326354.62,
+    "estimated_gdp": 43206567.2,
     "population": 89561404,
     "flag": "https://flagcdn.com/cd.svg",
     "currencies": [
@@ -1056,7 +1056,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 56,
@@ -1064,7 +1064,7 @@
     "capital": "Avarua",
     "region": "Oceania",
     "exchange_rate": 1.739984,
-    "estimated_gdp": 19967468.73,
+    "estimated_gdp": 20318016.03,
     "population": 18100,
     "flag": "https://flagcdn.com/ck.svg",
     "currencies": [
@@ -1080,7 +1080,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 57,
@@ -1088,7 +1088,7 @@
     "capital": "San José",
     "region": "Americas",
     "exchange_rate": 500.735158,
-    "estimated_gdp": 13968626.06,
+    "estimated_gdp": 12441414.84,
     "population": 5094114,
     "flag": "https://flagcdn.com/cr.svg",
     "currencies": [
@@ -1099,7 +1099,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 58,
@@ -1107,7 +1107,7 @@
     "capital": "Zagreb",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 5246622132.24,
+    "estimated_gdp": 8125459351.45,
     "population": 4047200,
     "flag": "https://flagcdn.com/hr.svg",
     "currencies": [
@@ -1118,7 +1118,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 59,
@@ -1142,7 +1142,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:12.135Z"
+    "last_refreshed_at": "2025-10-25T13:38:40.186Z"
   },
   {
     "id": 60,
@@ -1150,7 +1150,7 @@
     "capital": "Willemstad",
     "region": "Americas",
     "exchange_rate": 1.79,
-    "estimated_gdp": 167914228.47,
+    "estimated_gdp": 138941663.79,
     "population": 155014,
     "flag": "https://flagcdn.com/cw.svg",
     "currencies": [
@@ -1161,7 +1161,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 61,
@@ -1169,7 +1169,7 @@
     "capital": "Nicosia",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 1982406266.29,
+    "estimated_gdp": 1448856553.84,
     "population": 1207361,
     "flag": "https://flagcdn.com/cy.svg",
     "currencies": [
@@ -1180,7 +1180,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 62,
@@ -1188,7 +1188,7 @@
     "capital": "Prague",
     "region": "Europe",
     "exchange_rate": 20.937408,
-    "estimated_gdp": 938034087.35,
+    "estimated_gdp": 617132179.89,
     "population": 10698896,
     "flag": "https://flagcdn.com/cz.svg",
     "currencies": [
@@ -1199,7 +1199,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 63,
@@ -1207,7 +1207,7 @@
     "capital": "Copenhagen",
     "region": "Europe",
     "exchange_rate": 6.4201,
-    "estimated_gdp": 1498638196.26,
+    "estimated_gdp": 1302121764.39,
     "population": 5831404,
     "flag": "https://flagcdn.com/dk.svg",
     "currencies": [
@@ -1218,7 +1218,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 64,
@@ -1226,7 +1226,7 @@
     "capital": "Djibouti",
     "region": "Africa",
     "exchange_rate": 177.721,
-    "estimated_gdp": 7896025.39,
+    "estimated_gdp": 8281132.54,
     "population": 988002,
     "flag": "https://flagcdn.com/dj.svg",
     "currencies": [
@@ -1237,7 +1237,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 65,
@@ -1245,7 +1245,7 @@
     "capital": "Roseau",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 29325490.19,
+    "estimated_gdp": 37015926.78,
     "population": 71991,
     "flag": "https://flagcdn.com/dm.svg",
     "currencies": [
@@ -1256,7 +1256,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 66,
@@ -1264,7 +1264,7 @@
     "capital": "Santo Domingo",
     "region": "Americas",
     "exchange_rate": 63.483817,
-    "estimated_gdp": 331224299.72,
+    "estimated_gdp": 313514754.88,
     "population": 10847904,
     "flag": "https://flagcdn.com/do.svg",
     "currencies": [
@@ -1275,7 +1275,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 67,
@@ -1283,7 +1283,7 @@
     "capital": "Quito",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 20464762281.62,
+    "estimated_gdp": 24118926984.59,
     "population": 17643060,
     "flag": "https://flagcdn.com/ec.svg",
     "currencies": [
@@ -1294,7 +1294,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 68,
@@ -1302,7 +1302,7 @@
     "capital": "Cairo",
     "region": "Africa",
     "exchange_rate": 47.595654,
-    "estimated_gdp": 2240905230.33,
+    "estimated_gdp": 3232056250.83,
     "population": 102334403,
     "flag": "https://flagcdn.com/eg.svg",
     "currencies": [
@@ -1313,7 +1313,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 69,
@@ -1321,7 +1321,7 @@
     "capital": "San Salvador",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 7759967512.1,
+    "estimated_gdp": 7325993474.83,
     "population": 6486201,
     "flag": "https://flagcdn.com/sv.svg",
     "currencies": [
@@ -1332,7 +1332,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 70,
@@ -1340,7 +1340,7 @@
     "capital": "Malabo",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 4937884.88,
+    "estimated_gdp": 3984266.89,
     "population": 1402985,
     "flag": "https://flagcdn.com/gq.svg",
     "currencies": [
@@ -1351,7 +1351,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 71,
@@ -1359,7 +1359,7 @@
     "capital": "Asmara",
     "region": "Africa",
     "exchange_rate": 15,
-    "estimated_gdp": 581127755.85,
+    "estimated_gdp": 478340628.19,
     "population": 5352000,
     "flag": "https://flagcdn.com/er.svg",
     "currencies": [
@@ -1370,7 +1370,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 72,
@@ -1378,7 +1378,7 @@
     "capital": "Tallinn",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 2972140316.1,
+    "estimated_gdp": 2257396835.06,
     "population": 1331057,
     "flag": "https://flagcdn.com/ee.svg",
     "currencies": [
@@ -1389,7 +1389,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 73,
@@ -1397,7 +1397,7 @@
     "capital": "Addis Ababa",
     "region": "Africa",
     "exchange_rate": 149.299228,
-    "estimated_gdp": 1058169301.53,
+    "estimated_gdp": 1282477505.4,
     "population": 114963583,
     "flag": "https://flagcdn.com/et.svg",
     "currencies": [
@@ -1408,7 +1408,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 74,
@@ -1416,7 +1416,7 @@
     "capital": "Stanley",
     "region": "Americas",
     "exchange_rate": 0.751473,
-    "estimated_gdp": 4138878.86,
+    "estimated_gdp": 5561273.55,
     "population": 2563,
     "flag": "https://flagcdn.com/fk.svg",
     "currencies": [
@@ -1427,7 +1427,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 75,
@@ -1435,7 +1435,7 @@
     "capital": "Tórshavn",
     "region": "Europe",
     "exchange_rate": 6.4201,
-    "estimated_gdp": 10993547.18,
+    "estimated_gdp": 12551553.73,
     "population": 48865,
     "flag": "https://flagcdn.com/fo.svg",
     "currencies": [
@@ -1451,7 +1451,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 76,
@@ -1459,7 +1459,7 @@
     "capital": "Suva",
     "region": "Oceania",
     "exchange_rate": 2.294377,
-    "estimated_gdp": 543349852.6,
+    "estimated_gdp": 730542055.86,
     "population": 896444,
     "flag": "https://flagcdn.com/fj.svg",
     "currencies": [
@@ -1470,7 +1470,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 77,
@@ -1478,7 +1478,7 @@
     "capital": "Helsinki",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 8516490567.31,
+    "estimated_gdp": 8200961020.24,
     "population": 5530719,
     "flag": "https://flagcdn.com/fi.svg",
     "currencies": [
@@ -1489,7 +1489,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 78,
@@ -1497,7 +1497,7 @@
     "capital": "Paris",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 118633563473.52,
+    "estimated_gdp": 148756967128.18,
     "population": 67391582,
     "flag": "https://flagcdn.com/fr.svg",
     "currencies": [
@@ -1508,7 +1508,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 79,
@@ -1516,7 +1516,7 @@
     "capital": "Cayenne",
     "region": "Americas",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 300100793.82,
+    "estimated_gdp": 468353490.11,
     "population": 254541,
     "flag": "https://flagcdn.com/gf.svg",
     "currencies": [
@@ -1527,7 +1527,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 80,
@@ -1535,7 +1535,7 @@
     "capital": "Papeetē",
     "region": "Oceania",
     "exchange_rate": 102.652635,
-    "estimated_gdp": 4375729.47,
+    "estimated_gdp": 4050988.21,
     "population": 280904,
     "flag": "https://flagcdn.com/pf.svg",
     "currencies": [
@@ -1546,7 +1546,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 81,
@@ -1554,7 +1554,7 @@
     "capital": "Port-aux-Français",
     "region": "Africa",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 263725.77,
+    "estimated_gdp": 227406.15,
     "population": 140,
     "flag": "https://flagcdn.com/tf.svg",
     "currencies": [
@@ -1565,7 +1565,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 82,
@@ -1573,7 +1573,7 @@
     "capital": "Libreville",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 4350363.28,
+    "estimated_gdp": 5791737.71,
     "population": 2225728,
     "flag": "https://flagcdn.com/ga.svg",
     "currencies": [
@@ -1584,7 +1584,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 83,
@@ -1592,7 +1592,7 @@
     "capital": "Banjul",
     "region": "Africa",
     "exchange_rate": 73.312691,
-    "estimated_gdp": 45779070.34,
+    "estimated_gdp": 51428649.63,
     "population": 2416664,
     "flag": "https://flagcdn.com/gm.svg",
     "currencies": [
@@ -1603,7 +1603,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 84,
@@ -1611,7 +1611,7 @@
     "capital": "Tbilisi",
     "region": "Asia",
     "exchange_rate": 2.707427,
-    "estimated_gdp": 1638175951.83,
+    "estimated_gdp": 2478607802.48,
     "population": 3714000,
     "flag": "https://flagcdn.com/ge.svg",
     "currencies": [
@@ -1622,7 +1622,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 85,
@@ -1630,7 +1630,7 @@
     "capital": "Berlin",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 164798073912.09,
+    "estimated_gdp": 154548613458.62,
     "population": 83240525,
     "flag": "https://flagcdn.com/de.svg",
     "currencies": [
@@ -1641,7 +1641,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 86,
@@ -1649,7 +1649,7 @@
     "capital": "Accra",
     "region": "Africa",
     "exchange_rate": 10.801321,
-    "estimated_gdp": 3821606650.69,
+    "estimated_gdp": 5625883096.16,
     "population": 31072945,
     "flag": "https://flagcdn.com/gh.svg",
     "currencies": [
@@ -1660,7 +1660,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 87,
@@ -1668,7 +1668,7 @@
     "capital": "Gibraltar",
     "region": "Europe",
     "exchange_rate": 0.751473,
-    "estimated_gdp": 76930719.04,
+    "estimated_gdp": 53831244.04,
     "population": 33691,
     "flag": "https://flagcdn.com/gi.svg",
     "currencies": [
@@ -1679,7 +1679,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 88,
@@ -1687,7 +1687,7 @@
     "capital": "Athens",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 15032153833.48,
+    "estimated_gdp": 19950502495.33,
     "population": 10715549,
     "flag": "https://flagcdn.com/gr.svg",
     "currencies": [
@@ -1698,7 +1698,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 89,
@@ -1706,7 +1706,7 @@
     "capital": "Nuuk",
     "region": "Americas",
     "exchange_rate": 6.4201,
-    "estimated_gdp": 16514459.91,
+    "estimated_gdp": 17226219.67,
     "population": 56367,
     "flag": "https://flagcdn.com/gl.svg",
     "currencies": [
@@ -1717,7 +1717,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 90,
@@ -1725,7 +1725,7 @@
     "capital": "St. George's",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 59713297.84,
+    "estimated_gdp": 51812011.63,
     "population": 112519,
     "flag": "https://flagcdn.com/gd.svg",
     "currencies": [
@@ -1736,7 +1736,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 91,
@@ -1744,7 +1744,7 @@
     "capital": "Basse-Terre",
     "region": "Americas",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 549701684.41,
+    "estimated_gdp": 910044815.97,
     "population": 400132,
     "flag": "https://flagcdn.com/gp.svg",
     "currencies": [
@@ -1755,7 +1755,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 92,
@@ -1763,7 +1763,7 @@
     "capital": "Hagåtña",
     "region": "Oceania",
     "exchange_rate": 1,
-    "estimated_gdp": 336737271.67,
+    "estimated_gdp": 211569720.13,
     "population": 168783,
     "flag": "https://flagcdn.com/gu.svg",
     "currencies": [
@@ -1774,7 +1774,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 93,
@@ -1782,7 +1782,7 @@
     "capital": "Guatemala City",
     "region": "Americas",
     "exchange_rate": 7.641191,
-    "estimated_gdp": 4342882294.94,
+    "estimated_gdp": 2902553542.05,
     "population": 16858333,
     "flag": "https://flagcdn.com/gt.svg",
     "currencies": [
@@ -1793,7 +1793,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 94,
@@ -1801,7 +1801,7 @@
     "capital": "St. Peter Port",
     "region": "Europe",
     "exchange_rate": 0.751475,
-    "estimated_gdp": 122381036.81,
+    "estimated_gdp": 147537410.34,
     "population": 62999,
     "flag": "https://flagcdn.com/gg.svg",
     "currencies": [
@@ -1817,7 +1817,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 95,
@@ -1825,7 +1825,7 @@
     "capital": "Conakry",
     "region": "Africa",
     "exchange_rate": 8672.775003,
-    "estimated_gdp": 1828380.75,
+    "estimated_gdp": 2025836.99,
     "population": 13132792,
     "flag": "https://flagcdn.com/gn.svg",
     "currencies": [
@@ -1836,7 +1836,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 96,
@@ -1844,7 +1844,7 @@
     "capital": "Bissau",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 4901275.31,
+    "estimated_gdp": 6588475.11,
     "population": 1967998,
     "flag": "https://flagcdn.com/gw.svg",
     "currencies": [
@@ -1855,7 +1855,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 97,
@@ -1863,7 +1863,7 @@
     "capital": "Georgetown",
     "region": "Americas",
     "exchange_rate": 208.678236,
-    "estimated_gdp": 4317451.84,
+    "estimated_gdp": 3881352.29,
     "population": 786559,
     "flag": "https://flagcdn.com/gy.svg",
     "currencies": [
@@ -1874,7 +1874,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 98,
@@ -1882,7 +1882,7 @@
     "capital": "Port-au-Prince",
     "region": "Americas",
     "exchange_rate": 130.457121,
-    "estimated_gdp": 87524724.8,
+    "estimated_gdp": 168325624.51,
     "population": 11402533,
     "flag": "https://flagcdn.com/ht.svg",
     "currencies": [
@@ -1893,7 +1893,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 99,
@@ -1912,7 +1912,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 100,
@@ -1920,7 +1920,7 @@
     "capital": "Vatican City",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 588736.34,
+    "estimated_gdp": 682483.43,
     "population": 451,
     "flag": "https://flagcdn.com/va.svg",
     "currencies": [
@@ -1931,7 +1931,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 101,
@@ -1939,7 +1939,7 @@
     "capital": "Tegucigalpa",
     "region": "Americas",
     "exchange_rate": 26.212476,
-    "estimated_gdp": 449723046.72,
+    "estimated_gdp": 666086256.83,
     "population": 9904608,
     "flag": "https://flagcdn.com/hn.svg",
     "currencies": [
@@ -1950,7 +1950,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 102,
@@ -1958,7 +1958,7 @@
     "capital": "Budapest",
     "region": "Europe",
     "exchange_rate": 335.611735,
-    "estimated_gdp": 57056966.46,
+    "estimated_gdp": 32600933.08,
     "population": 9749763,
     "flag": "https://flagcdn.com/hu.svg",
     "currencies": [
@@ -1969,7 +1969,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 103,
@@ -1977,7 +1977,7 @@
     "capital": "City of Victoria",
     "region": "Asia",
     "exchange_rate": 7.769515,
-    "estimated_gdp": 1215937999.17,
+    "estimated_gdp": 975931117.71,
     "population": 7481800,
     "flag": "https://flagcdn.com/hk.svg",
     "currencies": [
@@ -1988,7 +1988,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 104,
@@ -1996,7 +1996,7 @@
     "capital": "Reykjavík",
     "region": "Europe",
     "exchange_rate": 122.556105,
-    "estimated_gdp": 5801636.2,
+    "estimated_gdp": 3700157.7,
     "population": 366425,
     "flag": "https://flagcdn.com/is.svg",
     "currencies": [
@@ -2007,7 +2007,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 105,
@@ -2015,7 +2015,7 @@
     "capital": "New Delhi",
     "region": "Asia",
     "exchange_rate": 87.85752,
-    "estimated_gdp": 30669736580.19,
+    "estimated_gdp": 22658532840.99,
     "population": 1380004385,
     "flag": "https://flagcdn.com/in.svg",
     "currencies": [
@@ -2026,7 +2026,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 106,
@@ -2034,7 +2034,7 @@
     "capital": "Jakarta",
     "region": "Asia",
     "exchange_rate": 16624.64702,
-    "estimated_gdp": 29422996.14,
+    "estimated_gdp": 31780810.8,
     "population": 273523621,
     "flag": "https://flagcdn.com/id.svg",
     "currencies": [
@@ -2045,7 +2045,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 107,
@@ -2053,7 +2053,7 @@
     "capital": "Yamoussoukro",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 76313207.24,
+    "estimated_gdp": 63343511.37,
     "population": 26378275,
     "flag": "https://flagcdn.com/ci.svg",
     "currencies": [
@@ -2064,7 +2064,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 108,
@@ -2072,7 +2072,7 @@
     "capital": "Tehran",
     "region": "Asia",
     "exchange_rate": 42049.485904,
-    "estimated_gdp": 2389502.49,
+    "estimated_gdp": 3867175.05,
     "population": 83992953,
     "flag": "https://flagcdn.com/ir.svg",
     "currencies": [
@@ -2083,7 +2083,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 109,
@@ -2091,7 +2091,7 @@
     "capital": "Baghdad",
     "region": "Asia",
     "exchange_rate": 1306.992945,
-    "estimated_gdp": 45015511.41,
+    "estimated_gdp": 37921630.49,
     "population": 40222503,
     "flag": "https://flagcdn.com/iq.svg",
     "currencies": [
@@ -2102,7 +2102,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 110,
@@ -2110,7 +2110,7 @@
     "capital": "Dublin",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 11497969480.52,
+    "estimated_gdp": 10829305479.03,
     "population": 4994724,
     "flag": "https://flagcdn.com/ie.svg",
     "currencies": [
@@ -2121,7 +2121,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 111,
@@ -2129,7 +2129,7 @@
     "capital": "Douglas",
     "region": "Europe",
     "exchange_rate": 0.751475,
-    "estimated_gdp": 194465713.62,
+    "estimated_gdp": 183917791.5,
     "population": 85032,
     "flag": "https://flagcdn.com/im.svg",
     "currencies": [
@@ -2145,7 +2145,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 112,
@@ -2153,7 +2153,7 @@
     "capital": "Jerusalem",
     "region": "Asia",
     "exchange_rate": 3.287093,
-    "estimated_gdp": 3086260697.09,
+    "estimated_gdp": 4328501030.18,
     "population": 9216900,
     "flag": "https://flagcdn.com/il.svg",
     "currencies": [
@@ -2164,7 +2164,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 113,
@@ -2172,7 +2172,7 @@
     "capital": "Rome",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 104090638623.23,
+    "estimated_gdp": 72628122677.04,
     "population": 59554023,
     "flag": "https://flagcdn.com/it.svg",
     "currencies": [
@@ -2183,7 +2183,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 114,
@@ -2191,7 +2191,7 @@
     "capital": "Kingston",
     "region": "Americas",
     "exchange_rate": 160.599653,
-    "estimated_gdp": 31353871.22,
+    "estimated_gdp": 34080931.4,
     "population": 2961161,
     "flag": "https://flagcdn.com/jm.svg",
     "currencies": [
@@ -2202,7 +2202,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 115,
@@ -2210,7 +2210,7 @@
     "capital": "Tokyo",
     "region": "Asia",
     "exchange_rate": 152.751376,
-    "estimated_gdp": 1088697006.75,
+    "estimated_gdp": 1019263074.25,
     "population": 125836021,
     "flag": "https://flagcdn.com/jp.svg",
     "currencies": [
@@ -2221,7 +2221,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 116,
@@ -2229,7 +2229,7 @@
     "capital": "Saint Helier",
     "region": "Europe",
     "exchange_rate": 0.751475,
-    "estimated_gdp": 153261770.46,
+    "estimated_gdp": 158088037.18,
     "population": 100800,
     "flag": "https://flagcdn.com/je.svg",
     "currencies": [
@@ -2245,7 +2245,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 117,
@@ -2253,7 +2253,7 @@
     "capital": "Amman",
     "region": "Asia",
     "exchange_rate": 0.709,
-    "estimated_gdp": 18329036913.35,
+    "estimated_gdp": 19257650441.71,
     "population": 10203140,
     "flag": "https://flagcdn.com/jo.svg",
     "currencies": [
@@ -2264,7 +2264,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 118,
@@ -2272,7 +2272,7 @@
     "capital": "Astana",
     "region": "Asia",
     "exchange_rate": 537.698546,
-    "estimated_gdp": 56614908.98,
+    "estimated_gdp": 40951854.75,
     "population": 18754440,
     "flag": "https://flagcdn.com/kz.svg",
     "currencies": [
@@ -2283,7 +2283,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 119,
@@ -2291,7 +2291,7 @@
     "capital": "Nairobi",
     "region": "Africa",
     "exchange_rate": 129.202793,
-    "estimated_gdp": 497182293.9,
+    "estimated_gdp": 791172437.57,
     "population": 53771300,
     "flag": "https://flagcdn.com/ke.svg",
     "currencies": [
@@ -2302,7 +2302,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 120,
@@ -2310,7 +2310,7 @@
     "capital": "South Tarawa",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 79157217.65,
+    "estimated_gdp": 101532978.87,
     "population": 119446,
     "flag": "https://flagcdn.com/ki.svg",
     "currencies": [
@@ -2326,7 +2326,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 121,
@@ -2334,7 +2334,7 @@
     "capital": "Kuwait City",
     "region": "Asia",
     "exchange_rate": 0.306168,
-    "estimated_gdp": 21083366166.93,
+    "estimated_gdp": 26415386715.94,
     "population": 4270563,
     "flag": "https://flagcdn.com/kw.svg",
     "currencies": [
@@ -2345,7 +2345,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 122,
@@ -2353,7 +2353,7 @@
     "capital": "Bishkek",
     "region": "Asia",
     "exchange_rate": 87.30185,
-    "estimated_gdp": 114753079.71,
+    "estimated_gdp": 104371785.42,
     "population": 6591600,
     "flag": "https://flagcdn.com/kg.svg",
     "currencies": [
@@ -2364,7 +2364,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 123,
@@ -2372,7 +2372,7 @@
     "capital": "Vientiane",
     "region": "Asia",
     "exchange_rate": 21723.120566,
-    "estimated_gdp": 464424.99,
+    "estimated_gdp": 659642.31,
     "population": 7275556,
     "flag": "https://flagcdn.com/la.svg",
     "currencies": [
@@ -2383,7 +2383,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 124,
@@ -2391,7 +2391,7 @@
     "capital": "Riga",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 2428330954.49,
+    "estimated_gdp": 2727023009.47,
     "population": 1901548,
     "flag": "https://flagcdn.com/lv.svg",
     "currencies": [
@@ -2402,7 +2402,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 125,
@@ -2410,7 +2410,7 @@
     "capital": "Beirut",
     "region": "Asia",
     "exchange_rate": 89500,
-    "estimated_gdp": 94904.2,
+    "estimated_gdp": 76369.79,
     "population": 6825442,
     "flag": "https://flagcdn.com/lb.svg",
     "currencies": [
@@ -2421,7 +2421,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 126,
@@ -2429,7 +2429,7 @@
     "capital": "Maseru",
     "region": "Africa",
     "exchange_rate": 17.288484,
-    "estimated_gdp": 224868317.3,
+    "estimated_gdp": 207105026.7,
     "population": 2142252,
     "flag": "https://flagcdn.com/ls.svg",
     "currencies": [
@@ -2445,7 +2445,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 127,
@@ -2453,7 +2453,7 @@
     "capital": "Monrovia",
     "region": "Africa",
     "exchange_rate": 182.473454,
-    "estimated_gdp": 42131823.21,
+    "estimated_gdp": 45514132.06,
     "population": 5057677,
     "flag": "https://flagcdn.com/lr.svg",
     "currencies": [
@@ -2464,7 +2464,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 128,
@@ -2472,7 +2472,7 @@
     "capital": "Tripoli",
     "region": "Africa",
     "exchange_rate": 5.421338,
-    "estimated_gdp": 2504444572.26,
+    "estimated_gdp": 1309680669.36,
     "population": 6871287,
     "flag": "https://flagcdn.com/ly.svg",
     "currencies": [
@@ -2483,7 +2483,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 129,
@@ -2491,7 +2491,7 @@
     "capital": "Vaduz",
     "region": "Europe",
     "exchange_rate": 0.795676,
-    "estimated_gdp": 50192482.11,
+    "estimated_gdp": 80539505.24,
     "population": 38137,
     "flag": "https://flagcdn.com/li.svg",
     "currencies": [
@@ -2502,7 +2502,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 130,
@@ -2510,7 +2510,7 @@
     "capital": "Vilnius",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 5382048042.74,
+    "estimated_gdp": 6293103694.98,
     "population": 2794700,
     "flag": "https://flagcdn.com/lt.svg",
     "currencies": [
@@ -2521,7 +2521,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 131,
@@ -2529,7 +2529,7 @@
     "capital": "Luxembourg",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 814651986.09,
+    "estimated_gdp": 873330626.59,
     "population": 632275,
     "flag": "https://flagcdn.com/lu.svg",
     "currencies": [
@@ -2540,7 +2540,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 132,
@@ -2548,7 +2548,7 @@
     "capital": null,
     "region": "Asia",
     "exchange_rate": 8.0026,
-    "estimated_gdp": 111180152.1,
+    "estimated_gdp": 117018568.48,
     "population": 649342,
     "flag": "https://flagcdn.com/mo.svg",
     "currencies": [
@@ -2559,7 +2559,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 133,
@@ -2567,7 +2567,7 @@
     "capital": "Skopje",
     "region": "Europe",
     "exchange_rate": 52.958551,
-    "estimated_gdp": 47236656.06,
+    "estimated_gdp": 62461821.79,
     "population": 2083380,
     "flag": "https://flagcdn.com/mk.svg",
     "currencies": [
@@ -2578,7 +2578,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 134,
@@ -2586,7 +2586,7 @@
     "capital": "Antananarivo",
     "region": "Africa",
     "exchange_rate": 4479.591714,
-    "estimated_gdp": 9468137.39,
+    "estimated_gdp": 7284059.13,
     "population": 27691019,
     "flag": "https://flagcdn.com/mg.svg",
     "currencies": [
@@ -2597,7 +2597,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 135,
@@ -2605,7 +2605,7 @@
     "capital": "Lilongwe",
     "region": "Africa",
     "exchange_rate": 1734.008847,
-    "estimated_gdp": 18938056.75,
+    "estimated_gdp": 21557875.75,
     "population": 19129955,
     "flag": "https://flagcdn.com/mw.svg",
     "currencies": [
@@ -2616,7 +2616,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 136,
@@ -2624,7 +2624,7 @@
     "capital": "Kuala Lumpur",
     "region": "Asia",
     "exchange_rate": 4.224159,
-    "estimated_gdp": 13204860823.26,
+    "estimated_gdp": 13709374392.77,
     "population": 32365998,
     "flag": "https://flagcdn.com/my.svg",
     "currencies": [
@@ -2635,7 +2635,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 137,
@@ -2643,7 +2643,7 @@
     "capital": "Malé",
     "region": "Asia",
     "exchange_rate": 15.421279,
-    "estimated_gdp": 47485829.66,
+    "estimated_gdp": 47263471.73,
     "population": 540542,
     "flag": "https://flagcdn.com/mv.svg",
     "currencies": [
@@ -2654,7 +2654,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 138,
@@ -2662,7 +2662,7 @@
     "capital": "Bamako",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 70459562.77,
+    "estimated_gdp": 61746624.54,
     "population": 20250834,
     "flag": "https://flagcdn.com/ml.svg",
     "currencies": [
@@ -2673,7 +2673,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 139,
@@ -2681,7 +2681,7 @@
     "capital": "Valletta",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 1101956363.21,
+    "estimated_gdp": 814632637.89,
     "population": 525285,
     "flag": "https://flagcdn.com/mt.svg",
     "currencies": [
@@ -2692,7 +2692,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 140,
@@ -2700,7 +2700,7 @@
     "capital": "Majuro",
     "region": "Oceania",
     "exchange_rate": 1,
-    "estimated_gdp": 104372161.61,
+    "estimated_gdp": 88195056.47,
     "population": 59194,
     "flag": "https://flagcdn.com/mh.svg",
     "currencies": [
@@ -2711,7 +2711,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 141,
@@ -2719,7 +2719,7 @@
     "capital": "Fort-de-France",
     "region": "Americas",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 669729870.11,
+    "estimated_gdp": 792103011.92,
     "population": 378243,
     "flag": "https://flagcdn.com/mq.svg",
     "currencies": [
@@ -2730,7 +2730,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 142,
@@ -2749,7 +2749,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:12.135Z"
+    "last_refreshed_at": "2025-10-25T13:38:40.186Z"
   },
   {
     "id": 143,
@@ -2757,7 +2757,7 @@
     "capital": "Port Louis",
     "region": "Africa",
     "exchange_rate": 45.405231,
-    "estimated_gdp": 34825122.57,
+    "estimated_gdp": 28125246.51,
     "population": 1265740,
     "flag": "https://flagcdn.com/mu.svg",
     "currencies": [
@@ -2768,7 +2768,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 144,
@@ -2776,7 +2776,7 @@
     "capital": "Mamoudzou",
     "region": "Africa",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 298443121.22,
+    "estimated_gdp": 370476004.75,
     "population": 226915,
     "flag": "https://flagcdn.com/yt.svg",
     "currencies": [
@@ -2787,7 +2787,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 145,
@@ -2795,7 +2795,7 @@
     "capital": "Mexico City",
     "region": "Americas",
     "exchange_rate": 18.422546,
-    "estimated_gdp": 7059096232.94,
+    "estimated_gdp": 13919500228.07,
     "population": 128932753,
     "flag": "https://flagcdn.com/mx.svg",
     "currencies": [
@@ -2806,7 +2806,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 146,
@@ -2814,7 +2814,7 @@
     "capital": "Palikir",
     "region": "Oceania",
     "exchange_rate": 1,
-    "estimated_gdp": 162914687.43,
+    "estimated_gdp": 135731639.43,
     "population": 115021,
     "flag": "https://flagcdn.com/fm.svg",
     "currencies": [
@@ -2825,7 +2825,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 147,
@@ -2833,7 +2833,7 @@
     "capital": "Chișinău",
     "region": "Europe",
     "exchange_rate": 17.021202,
-    "estimated_gdp": 279552193.19,
+    "estimated_gdp": 203942093.61,
     "population": 2617820,
     "flag": "https://flagcdn.com/md.svg",
     "currencies": [
@@ -2844,7 +2844,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 148,
@@ -2852,7 +2852,7 @@
     "capital": "Monaco",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 48261714.04,
+    "estimated_gdp": 87084303.16,
     "population": 39244,
     "flag": "https://flagcdn.com/mc.svg",
     "currencies": [
@@ -2863,7 +2863,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 149,
@@ -2871,7 +2871,7 @@
     "capital": "Ulan Bator",
     "region": "Asia",
     "exchange_rate": 3591.411366,
-    "estimated_gdp": 1294617.32,
+    "estimated_gdp": 1571911.66,
     "population": 3278292,
     "flag": "https://flagcdn.com/mn.svg",
     "currencies": [
@@ -2882,7 +2882,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 150,
@@ -2890,7 +2890,7 @@
     "capital": "Podgorica",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 1397439578.47,
+    "estimated_gdp": 797133736.91,
     "population": 621718,
     "flag": "https://flagcdn.com/me.svg",
     "currencies": [
@@ -2901,7 +2901,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 151,
@@ -2909,7 +2909,7 @@
     "capital": "Plymouth",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 3610635.31,
+    "estimated_gdp": 2215090.34,
     "population": 4922,
     "flag": "https://flagcdn.com/ms.svg",
     "currencies": [
@@ -2920,7 +2920,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 152,
@@ -2928,7 +2928,7 @@
     "capital": "Rabat",
     "region": "Africa",
     "exchange_rate": 9.235984,
-    "estimated_gdp": 7151776763.53,
+    "estimated_gdp": 6884058649.77,
     "population": 36910558,
     "flag": "https://flagcdn.com/ma.svg",
     "currencies": [
@@ -2939,7 +2939,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 153,
@@ -2947,7 +2947,7 @@
     "capital": "Maputo",
     "region": "Africa",
     "exchange_rate": 63.727766,
-    "estimated_gdp": 726947214.36,
+    "estimated_gdp": 944538179.35,
     "population": 31255435,
     "flag": "https://flagcdn.com/mz.svg",
     "currencies": [
@@ -2958,7 +2958,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 154,
@@ -2966,7 +2966,7 @@
     "capital": "Naypyidaw",
     "region": "Asia",
     "exchange_rate": 2095.501513,
-    "estimated_gdp": 42762960.24,
+    "estimated_gdp": 27536314.18,
     "population": 54409794,
     "flag": "https://flagcdn.com/mm.svg",
     "currencies": [
@@ -2977,7 +2977,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 155,
@@ -2985,7 +2985,7 @@
     "capital": "Windhoek",
     "region": "Africa",
     "exchange_rate": 17.288484,
-    "estimated_gdp": 214438429.77,
+    "estimated_gdp": 256416411.39,
     "population": 2540916,
     "flag": "https://flagcdn.com/na.svg",
     "currencies": [
@@ -3001,7 +3001,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 156,
@@ -3009,7 +3009,7 @@
     "capital": "Yaren",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 10179741.44,
+    "estimated_gdp": 7692725.93,
     "population": 10834,
     "flag": "https://flagcdn.com/nr.svg",
     "currencies": [
@@ -3020,7 +3020,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 157,
@@ -3028,7 +3028,7 @@
     "capital": "Kathmandu",
     "region": "Asia",
     "exchange_rate": 140.571893,
-    "estimated_gdp": 268434808.3,
+    "estimated_gdp": 285761572.19,
     "population": 29136808,
     "flag": "https://flagcdn.com/np.svg",
     "currencies": [
@@ -3039,7 +3039,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 158,
@@ -3047,7 +3047,7 @@
     "capital": "Amsterdam",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 29196282932.43,
+    "estimated_gdp": 31122682718.74,
     "population": 17441139,
     "flag": "https://flagcdn.com/nl.svg",
     "currencies": [
@@ -3058,7 +3058,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 159,
@@ -3066,7 +3066,7 @@
     "capital": "Nouméa",
     "region": "Oceania",
     "exchange_rate": 102.652635,
-    "estimated_gdp": 2820069.91,
+    "estimated_gdp": 3001543.49,
     "population": 271960,
     "flag": "https://flagcdn.com/nc.svg",
     "currencies": [
@@ -3077,7 +3077,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 160,
@@ -3085,7 +3085,7 @@
     "capital": "Wellington",
     "region": "Oceania",
     "exchange_rate": 1.739984,
-    "estimated_gdp": 3953095935.62,
+    "estimated_gdp": 3972402958.78,
     "population": 5084300,
     "flag": "https://flagcdn.com/nz.svg",
     "currencies": [
@@ -3096,7 +3096,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 161,
@@ -3104,7 +3104,7 @@
     "capital": "Managua",
     "region": "Americas",
     "exchange_rate": 36.711953,
-    "estimated_gdp": 303107204.48,
+    "estimated_gdp": 259137354.67,
     "population": 6624554,
     "flag": "https://flagcdn.com/ni.svg",
     "currencies": [
@@ -3115,7 +3115,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 162,
@@ -3123,7 +3123,7 @@
     "capital": "Niamey",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 67615677.22,
+    "estimated_gdp": 82511023.97,
     "population": 24206636,
     "flag": "https://flagcdn.com/ne.svg",
     "currencies": [
@@ -3134,7 +3134,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 163,
@@ -3142,7 +3142,7 @@
     "capital": "Abuja",
     "region": "Africa",
     "exchange_rate": 1462.574942,
-    "estimated_gdp": 279287625.85,
+    "estimated_gdp": 215275970.79,
     "population": 206139587,
     "flag": "https://flagcdn.com/ng.svg",
     "currencies": [
@@ -3153,7 +3153,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 164,
@@ -3161,7 +3161,7 @@
     "capital": "Alofi",
     "region": "Oceania",
     "exchange_rate": 1.739984,
-    "estimated_gdp": 1297751.1,
+    "estimated_gdp": 1104060.47,
     "population": 1470,
     "flag": "https://flagcdn.com/nu.svg",
     "currencies": [
@@ -3177,7 +3177,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 165,
@@ -3185,7 +3185,7 @@
     "capital": "Kingston",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 2031615.35,
+    "estimated_gdp": 2599224.61,
     "population": 2302,
     "flag": "https://flagcdn.com/nf.svg",
     "currencies": [
@@ -3196,7 +3196,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 166,
@@ -3215,7 +3215,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:12.135Z"
+    "last_refreshed_at": "2025-10-25T13:38:40.186Z"
   },
   {
     "id": 167,
@@ -3223,7 +3223,7 @@
     "capital": "Saipan",
     "region": "Oceania",
     "exchange_rate": 1,
-    "estimated_gdp": 112410767.62,
+    "estimated_gdp": 88505734.83,
     "population": 57557,
     "flag": "https://flagcdn.com/mp.svg",
     "currencies": [
@@ -3234,7 +3234,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 168,
@@ -3242,7 +3242,7 @@
     "capital": "Oslo",
     "region": "Europe",
     "exchange_rate": 10.013525,
-    "estimated_gdp": 990995801,
+    "estimated_gdp": 782438795.3,
     "population": 5379475,
     "flag": "https://flagcdn.com/no.svg",
     "currencies": [
@@ -3253,7 +3253,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 169,
@@ -3261,7 +3261,7 @@
     "capital": "Muscat",
     "region": "Asia",
     "exchange_rate": 0.384497,
-    "estimated_gdp": 25650040853.51,
+    "estimated_gdp": 26085463314.58,
     "population": 5106622,
     "flag": "https://flagcdn.com/om.svg",
     "currencies": [
@@ -3272,7 +3272,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 170,
@@ -3280,7 +3280,7 @@
     "capital": "Islamabad",
     "region": "Asia",
     "exchange_rate": 283.092208,
-    "estimated_gdp": 950379861.36,
+    "estimated_gdp": 1441740708.57,
     "population": 220892331,
     "flag": "https://flagcdn.com/pk.svg",
     "currencies": [
@@ -3291,7 +3291,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 171,
@@ -3299,7 +3299,7 @@
     "capital": "Ngerulmud",
     "region": "Oceania",
     "exchange_rate": 1,
-    "estimated_gdp": 28228803.7,
+    "estimated_gdp": 24146832.47,
     "population": 18092,
     "flag": "https://flagcdn.com/pw.svg",
     "currencies": [
@@ -3310,7 +3310,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 172,
@@ -3318,7 +3318,7 @@
     "capital": "Ramallah",
     "region": "Asia",
     "exchange_rate": 47.595654,
-    "estimated_gdp": 141475040.14,
+    "estimated_gdp": 117093106.01,
     "population": 4803269,
     "flag": "https://flagcdn.com/ps.svg",
     "currencies": [
@@ -3339,7 +3339,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 173,
@@ -3347,7 +3347,7 @@
     "capital": "Panama City",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 5020775909.38,
+    "estimated_gdp": 5763716779.13,
     "population": 4314768,
     "flag": "https://flagcdn.com/pa.svg",
     "currencies": [
@@ -3363,7 +3363,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 174,
@@ -3371,7 +3371,7 @@
     "capital": "Port Moresby",
     "region": "Oceania",
     "exchange_rate": 4.197171,
-    "estimated_gdp": 3964158474.78,
+    "estimated_gdp": 3824433789.16,
     "population": 8947027,
     "flag": "https://flagcdn.com/pg.svg",
     "currencies": [
@@ -3382,7 +3382,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 175,
@@ -3390,7 +3390,7 @@
     "capital": "Asunción",
     "region": "Americas",
     "exchange_rate": 7072.761171,
-    "estimated_gdp": 1655565.43,
+    "estimated_gdp": 1211742.57,
     "population": 7132530,
     "flag": "https://flagcdn.com/py.svg",
     "currencies": [
@@ -3401,7 +3401,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 176,
@@ -3409,7 +3409,7 @@
     "capital": "Lima",
     "region": "Americas",
     "exchange_rate": 3.385436,
-    "estimated_gdp": 13315350770.63,
+    "estimated_gdp": 15760402770.31,
     "population": 32971846,
     "flag": "https://flagcdn.com/pe.svg",
     "currencies": [
@@ -3420,7 +3420,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 177,
@@ -3428,7 +3428,7 @@
     "capital": "Manila",
     "region": "Asia",
     "exchange_rate": 58.665314,
-    "estimated_gdp": 2430759183.41,
+    "estimated_gdp": 3188524714.09,
     "population": 109581085,
     "flag": "https://flagcdn.com/ph.svg",
     "currencies": [
@@ -3439,7 +3439,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 178,
@@ -3447,7 +3447,7 @@
     "capital": "Adamstown",
     "region": "Oceania",
     "exchange_rate": 1.739984,
-    "estimated_gdp": 39972.97,
+    "estimated_gdp": 40746.53,
     "population": 56,
     "flag": "https://flagcdn.com/pn.svg",
     "currencies": [
@@ -3463,7 +3463,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 179,
@@ -3471,7 +3471,7 @@
     "capital": "Warsaw",
     "region": "Europe",
     "exchange_rate": 3.650098,
-    "estimated_gdp": 20469914949.6,
+    "estimated_gdp": 17582440188.18,
     "population": 37950802,
     "flag": "https://flagcdn.com/pl.svg",
     "currencies": [
@@ -3482,7 +3482,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 180,
@@ -3490,7 +3490,7 @@
     "capital": "Lisbon",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 17977250665.02,
+    "estimated_gdp": 17065371832.99,
     "population": 10305564,
     "flag": "https://flagcdn.com/pt.svg",
     "currencies": [
@@ -3501,7 +3501,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 181,
@@ -3509,7 +3509,7 @@
     "capital": "San Juan",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 5511899518.32,
+    "estimated_gdp": 4160864636.7,
     "population": 3194034,
     "flag": "https://flagcdn.com/pr.svg",
     "currencies": [
@@ -3520,7 +3520,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 182,
@@ -3528,7 +3528,7 @@
     "capital": "Doha",
     "region": "Asia",
     "exchange_rate": 3.64,
-    "estimated_gdp": 1000406366.53,
+    "estimated_gdp": 818335468.56,
     "population": 2881060,
     "flag": "https://flagcdn.com/qa.svg",
     "currencies": [
@@ -3539,7 +3539,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 183,
@@ -3547,7 +3547,7 @@
     "capital": "Pristina",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 3278885779.15,
+    "estimated_gdp": 2765133572.71,
     "population": 1775378,
     "flag": "https://flagcdn.com/xk.svg",
     "currencies": [
@@ -3558,7 +3558,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 184,
@@ -3566,7 +3566,7 @@
     "capital": "Saint-Denis",
     "region": "Africa",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 1114196961.67,
+    "estimated_gdp": 1754390133.18,
     "population": 840974,
     "flag": "https://flagcdn.com/re.svg",
     "currencies": [
@@ -3577,7 +3577,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 185,
@@ -3585,7 +3585,7 @@
     "capital": "Bucharest",
     "region": "Europe",
     "exchange_rate": 4.376628,
-    "estimated_gdp": 8596442885.67,
+    "estimated_gdp": 4676195638.39,
     "population": 19286123,
     "flag": "https://flagcdn.com/ro.svg",
     "currencies": [
@@ -3596,7 +3596,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 186,
@@ -3604,7 +3604,7 @@
     "capital": "Moscow",
     "region": "Europe",
     "exchange_rate": 81.066971,
-    "estimated_gdp": 1782063318.54,
+    "estimated_gdp": 2787615462.79,
     "population": 144104080,
     "flag": "https://flagcdn.com/ru.svg",
     "currencies": [
@@ -3615,7 +3615,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 187,
@@ -3623,7 +3623,7 @@
     "capital": "Kigali",
     "region": "Africa",
     "exchange_rate": 1451.934555,
-    "estimated_gdp": 9300219.18,
+    "estimated_gdp": 10818713.3,
     "population": 12952209,
     "flag": "https://flagcdn.com/rw.svg",
     "currencies": [
@@ -3634,7 +3634,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 188,
@@ -3642,7 +3642,7 @@
     "capital": "Gustavia",
     "region": "Americas",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 21239653.97,
+    "estimated_gdp": 16701711.55,
     "population": 9417,
     "flag": "https://flagcdn.com/bl.svg",
     "currencies": [
@@ -3653,7 +3653,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 189,
@@ -3661,7 +3661,7 @@
     "capital": "Jamestown",
     "region": "Africa",
     "exchange_rate": 0.751473,
-    "estimated_gdp": 9743188.49,
+    "estimated_gdp": 6102159.79,
     "population": 4255,
     "flag": "https://flagcdn.com/sh.svg",
     "currencies": [
@@ -3672,7 +3672,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 190,
@@ -3680,7 +3680,7 @@
     "capital": "Basseterre",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 36471604.58,
+    "estimated_gdp": 21072979.46,
     "population": 53192,
     "flag": "https://flagcdn.com/kn.svg",
     "currencies": [
@@ -3691,7 +3691,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 191,
@@ -3699,7 +3699,7 @@
     "capital": "Castries",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 87949497.91,
+    "estimated_gdp": 79577259.32,
     "population": 183629,
     "flag": "https://flagcdn.com/lc.svg",
     "currencies": [
@@ -3710,7 +3710,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 192,
@@ -3718,7 +3718,7 @@
     "capital": "Marigot",
     "region": "Americas",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 64309353.01,
+    "estimated_gdp": 59871136.44,
     "population": 38659,
     "flag": "https://flagcdn.com/mf.svg",
     "currencies": [
@@ -3729,7 +3729,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 193,
@@ -3737,7 +3737,7 @@
     "capital": "Saint-Pierre",
     "region": "Americas",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 13085784.19,
+    "estimated_gdp": 10184241.44,
     "population": 6069,
     "flag": "https://flagcdn.com/pm.svg",
     "currencies": [
@@ -3748,7 +3748,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 194,
@@ -3756,7 +3756,7 @@
     "capital": "Kingstown",
     "region": "Americas",
     "exchange_rate": 2.7,
-    "estimated_gdp": 72394055.53,
+    "estimated_gdp": 67878077.53,
     "population": 110947,
     "flag": "https://flagcdn.com/vc.svg",
     "currencies": [
@@ -3767,7 +3767,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 195,
@@ -3775,7 +3775,7 @@
     "capital": "Apia",
     "region": "Oceania",
     "exchange_rate": 2.775553,
-    "estimated_gdp": 78073229.62,
+    "estimated_gdp": 126849618.61,
     "population": 198410,
     "flag": "https://flagcdn.com/ws.svg",
     "currencies": [
@@ -3786,7 +3786,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 196,
@@ -3794,7 +3794,7 @@
     "capital": "City of San Marino",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 77938447.55,
+    "estimated_gdp": 63551598.67,
     "population": 33938,
     "flag": "https://flagcdn.com/sm.svg",
     "currencies": [
@@ -3805,7 +3805,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 197,
@@ -3824,7 +3824,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:12.135Z"
+    "last_refreshed_at": "2025-10-25T13:38:40.186Z"
   },
   {
     "id": 198,
@@ -3832,7 +3832,7 @@
     "capital": "Riyadh",
     "region": "Asia",
     "exchange_rate": 3.75,
-    "estimated_gdp": 12597028069.81,
+    "estimated_gdp": 13567847291.56,
     "population": 34813867,
     "flag": "https://flagcdn.com/sa.svg",
     "currencies": [
@@ -3843,7 +3843,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 199,
@@ -3851,7 +3851,7 @@
     "capital": "Dakar",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 31803070.68,
+    "estimated_gdp": 45626988.15,
     "population": 16743930,
     "flag": "https://flagcdn.com/sn.svg",
     "currencies": [
@@ -3862,7 +3862,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 200,
@@ -3870,7 +3870,7 @@
     "capital": "Belgrade",
     "region": "Europe",
     "exchange_rate": 100.846967,
-    "estimated_gdp": 131767843.3,
+    "estimated_gdp": 136716305.68,
     "population": 6908224,
     "flag": "https://flagcdn.com/rs.svg",
     "currencies": [
@@ -3881,7 +3881,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 201,
@@ -3889,7 +3889,7 @@
     "capital": "Victoria",
     "region": "Africa",
     "exchange_rate": 13.795629,
-    "estimated_gdp": 10397877.22,
+    "estimated_gdp": 10814623.74,
     "population": 98462,
     "flag": "https://flagcdn.com/sc.svg",
     "currencies": [
@@ -3900,7 +3900,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 202,
@@ -3908,7 +3908,7 @@
     "capital": "Freetown",
     "region": "Africa",
     "exchange_rate": 23.132542,
-    "estimated_gdp": 657344292.19,
+    "estimated_gdp": 504858673.9,
     "population": 7976985,
     "flag": "https://flagcdn.com/sl.svg",
     "currencies": [
@@ -3919,7 +3919,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 203,
@@ -3927,7 +3927,7 @@
     "capital": "Singapore",
     "region": "Asia",
     "exchange_rate": 1.298846,
-    "estimated_gdp": 5138245212.93,
+    "estimated_gdp": 6144508102.5,
     "population": 5685807,
     "flag": "https://flagcdn.com/sg.svg",
     "currencies": [
@@ -3938,7 +3938,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 204,
@@ -3946,7 +3946,7 @@
     "capital": "Philipsburg",
     "region": "Americas",
     "exchange_rate": 1.79,
-    "estimated_gdp": 39414987.29,
+    "estimated_gdp": 30290013.48,
     "population": 40812,
     "flag": "https://flagcdn.com/sx.svg",
     "currencies": [
@@ -3957,7 +3957,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 205,
@@ -3965,7 +3965,7 @@
     "capital": "Bratislava",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 7689260864.71,
+    "estimated_gdp": 8683770301.36,
     "population": 5458827,
     "flag": "https://flagcdn.com/sk.svg",
     "currencies": [
@@ -3976,7 +3976,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 206,
@@ -3984,7 +3984,7 @@
     "capital": "Ljubljana",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 3999700808.03,
+    "estimated_gdp": 4759450786.14,
     "population": 2100126,
     "flag": "https://flagcdn.com/si.svg",
     "currencies": [
@@ -3995,7 +3995,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 207,
@@ -4003,7 +4003,7 @@
     "capital": "Honiara",
     "region": "Oceania",
     "exchange_rate": 8.144049,
-    "estimated_gdp": 93654665.08,
+    "estimated_gdp": 133922302.85,
     "population": 686878,
     "flag": "https://flagcdn.com/sb.svg",
     "currencies": [
@@ -4014,7 +4014,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 208,
@@ -4022,7 +4022,7 @@
     "capital": "Mogadishu",
     "region": "Africa",
     "exchange_rate": 569.923407,
-    "estimated_gdp": 36008476.02,
+    "estimated_gdp": 31767250.49,
     "population": 15893219,
     "flag": "https://flagcdn.com/so.svg",
     "currencies": [
@@ -4033,7 +4033,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 209,
@@ -4041,7 +4041,7 @@
     "capital": "Pretoria",
     "region": "Africa",
     "exchange_rate": 17.276777,
-    "estimated_gdp": 4143258282.41,
+    "estimated_gdp": 4740800594.01,
     "population": 59308690,
     "flag": "https://flagcdn.com/za.svg",
     "currencies": [
@@ -4052,7 +4052,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 210,
@@ -4060,7 +4060,7 @@
     "capital": "King Edward Point",
     "region": "Americas",
     "exchange_rate": 0.751473,
-    "estimated_gdp": 47562.11,
+    "estimated_gdp": 78299.09,
     "population": 30,
     "flag": "https://flagcdn.com/gs.svg",
     "currencies": [
@@ -4071,7 +4071,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 211,
@@ -4079,7 +4079,7 @@
     "capital": "Seoul",
     "region": "Asia",
     "exchange_rate": 1438.495088,
-    "estimated_gdp": 41563812.45,
+    "estimated_gdp": 36707078.86,
     "population": 51780579,
     "flag": "https://flagcdn.com/kr.svg",
     "currencies": [
@@ -4090,7 +4090,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 212,
@@ -4098,7 +4098,7 @@
     "capital": "Madrid",
     "region": "Europe",
     "exchange_rate": 0.860228,
-    "estimated_gdp": 88017585517.03,
+    "estimated_gdp": 55829103760.26,
     "population": 47351567,
     "flag": "https://flagcdn.com/es.svg",
     "currencies": [
@@ -4109,7 +4109,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 213,
@@ -4117,7 +4117,7 @@
     "capital": "Sri Jayawardenepura Kotte",
     "region": "Asia",
     "exchange_rate": 303.485174,
-    "estimated_gdp": 141622569.33,
+    "estimated_gdp": 95831093.55,
     "population": 21919000,
     "flag": "https://flagcdn.com/lk.svg",
     "currencies": [
@@ -4128,7 +4128,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 214,
@@ -4136,7 +4136,7 @@
     "capital": "Khartoum",
     "region": "Africa",
     "exchange_rate": 585.816905,
-    "estimated_gdp": 118961312.46,
+    "estimated_gdp": 108089454.47,
     "population": 43849269,
     "flag": "https://flagcdn.com/sd.svg",
     "currencies": [
@@ -4147,7 +4147,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 215,
@@ -4155,7 +4155,7 @@
     "capital": "Juba",
     "region": "Africa",
     "exchange_rate": 4604.289102,
-    "estimated_gdp": 4340493.97,
+    "estimated_gdp": 2629717.37,
     "population": 11193729,
     "flag": "https://flagcdn.com/ss.svg",
     "currencies": [
@@ -4166,7 +4166,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 216,
@@ -4174,7 +4174,7 @@
     "capital": "Paramaribo",
     "region": "Americas",
     "exchange_rate": 39.773936,
-    "estimated_gdp": 20959319.28,
+    "estimated_gdp": 28400541.22,
     "population": 586634,
     "flag": "https://flagcdn.com/sr.svg",
     "currencies": [
@@ -4185,7 +4185,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 217,
@@ -4193,7 +4193,7 @@
     "capital": "Longyearbyen",
     "region": "Europe",
     "exchange_rate": 10.013525,
-    "estimated_gdp": 352368.74,
+    "estimated_gdp": 333003.91,
     "population": 2562,
     "flag": "https://flagcdn.com/sj.svg",
     "currencies": [
@@ -4204,7 +4204,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 218,
@@ -4212,7 +4212,7 @@
     "capital": "Mbabane",
     "region": "Africa",
     "exchange_rate": 17.288484,
-    "estimated_gdp": 129267303.7,
+    "estimated_gdp": 126841043.86,
     "population": 1160164,
     "flag": "https://flagcdn.com/sz.svg",
     "currencies": [
@@ -4223,7 +4223,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 219,
@@ -4231,7 +4231,7 @@
     "capital": "Stockholm",
     "region": "Europe",
     "exchange_rate": 9.395327,
-    "estimated_gdp": 1520380079.21,
+    "estimated_gdp": 2200297540.55,
     "population": 10353442,
     "flag": "https://flagcdn.com/se.svg",
     "currencies": [
@@ -4242,7 +4242,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 220,
@@ -4250,7 +4250,7 @@
     "capital": "Bern",
     "region": "Europe",
     "exchange_rate": 0.795676,
-    "estimated_gdp": 13206119153.56,
+    "estimated_gdp": 16087066002.23,
     "population": 8636896,
     "flag": "https://flagcdn.com/ch.svg",
     "currencies": [
@@ -4261,7 +4261,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 221,
@@ -4269,7 +4269,7 @@
     "capital": "Damascus",
     "region": "Asia",
     "exchange_rate": 11014.708392,
-    "estimated_gdp": 2661817.05,
+    "estimated_gdp": 3027374.84,
     "population": 17500657,
     "flag": "https://flagcdn.com/sy.svg",
     "currencies": [
@@ -4280,7 +4280,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 222,
@@ -4288,7 +4288,7 @@
     "capital": "Taipei",
     "region": "Asia",
     "exchange_rate": 30.805214,
-    "estimated_gdp": 1140751461.81,
+    "estimated_gdp": 769430652.47,
     "population": 23503349,
     "flag": "https://flagcdn.com/tw.svg",
     "currencies": [
@@ -4299,7 +4299,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 223,
@@ -4307,7 +4307,7 @@
     "capital": "Dushanbe",
     "region": "Asia",
     "exchange_rate": 9.205763,
-    "estimated_gdp": 1072963472.82,
+    "estimated_gdp": 1863860021.66,
     "population": 9537642,
     "flag": "https://flagcdn.com/tj.svg",
     "currencies": [
@@ -4318,7 +4318,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 224,
@@ -4326,7 +4326,7 @@
     "capital": "Dodoma",
     "region": "Africa",
     "exchange_rate": 2466.674492,
-    "estimated_gdp": 43307006.63,
+    "estimated_gdp": 36164425.84,
     "population": 59734213,
     "flag": "https://flagcdn.com/tz.svg",
     "currencies": [
@@ -4337,7 +4337,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 225,
@@ -4345,7 +4345,7 @@
     "capital": "Bangkok",
     "region": "Asia",
     "exchange_rate": 32.704413,
-    "estimated_gdp": 3961247901.84,
+    "estimated_gdp": 3116125257.72,
     "population": 69799978,
     "flag": "https://flagcdn.com/th.svg",
     "currencies": [
@@ -4356,7 +4356,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 226,
@@ -4364,7 +4364,7 @@
     "capital": "Dili",
     "region": "Asia",
     "exchange_rate": 1,
-    "estimated_gdp": 1526692836.48,
+    "estimated_gdp": 1475949992.24,
     "population": 1318442,
     "flag": "https://flagcdn.com/tl.svg",
     "currencies": [
@@ -4375,7 +4375,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 227,
@@ -4383,7 +4383,7 @@
     "capital": "Lomé",
     "region": "Africa",
     "exchange_rate": 564.272071,
-    "estimated_gdp": 17171542.74,
+    "estimated_gdp": 15678153.58,
     "population": 8278737,
     "flag": "https://flagcdn.com/tg.svg",
     "currencies": [
@@ -4394,7 +4394,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 228,
@@ -4402,7 +4402,7 @@
     "capital": "Fakaofo",
     "region": "Oceania",
     "exchange_rate": 1.739984,
-    "estimated_gdp": 863949.45,
+    "estimated_gdp": 1080997.29,
     "population": 1411,
     "flag": "https://flagcdn.com/tk.svg",
     "currencies": [
@@ -4413,7 +4413,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 229,
@@ -4421,7 +4421,7 @@
     "capital": "Nuku'alofa",
     "region": "Oceania",
     "exchange_rate": 2.344246,
-    "estimated_gdp": 67420196.99,
+    "estimated_gdp": 82895162.51,
     "population": 105697,
     "flag": "https://flagcdn.com/to.svg",
     "currencies": [
@@ -4432,7 +4432,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 230,
@@ -4440,7 +4440,7 @@
     "capital": "Port of Spain",
     "region": "Americas",
     "exchange_rate": 6.766515,
-    "estimated_gdp": 210203913.3,
+    "estimated_gdp": 236451506.18,
     "population": 1399491,
     "flag": "https://flagcdn.com/tt.svg",
     "currencies": [
@@ -4451,7 +4451,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 231,
@@ -4459,7 +4459,7 @@
     "capital": "Tunis",
     "region": "Africa",
     "exchange_rate": 2.929464,
-    "estimated_gdp": 5160670966.76,
+    "estimated_gdp": 7902027527.83,
     "population": 11818618,
     "flag": "https://flagcdn.com/tn.svg",
     "currencies": [
@@ -4470,7 +4470,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 232,
@@ -4478,7 +4478,7 @@
     "capital": "Ankara",
     "region": "Asia",
     "exchange_rate": 41.971858,
-    "estimated_gdp": 3259866793.91,
+    "estimated_gdp": 3811700939.59,
     "population": 84339067,
     "flag": "https://flagcdn.com/tr.svg",
     "currencies": [
@@ -4489,7 +4489,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 233,
@@ -4497,7 +4497,7 @@
     "capital": "Ashgabat",
     "region": "Asia",
     "exchange_rate": 3.493191,
-    "estimated_gdp": 2675473269.94,
+    "estimated_gdp": 3431395764.02,
     "population": 6031187,
     "flag": "https://flagcdn.com/tm.svg",
     "currencies": [
@@ -4508,7 +4508,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 234,
@@ -4516,7 +4516,7 @@
     "capital": "Cockburn Town",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 53624473.22,
+    "estimated_gdp": 75871740.59,
     "population": 38718,
     "flag": "https://flagcdn.com/tc.svg",
     "currencies": [
@@ -4527,7 +4527,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 235,
@@ -4535,7 +4535,7 @@
     "capital": "Funafuti",
     "region": "Oceania",
     "exchange_rate": 1.536356,
-    "estimated_gdp": 12762997.5,
+    "estimated_gdp": 13165365.9,
     "population": 11792,
     "flag": "https://flagcdn.com/tv.svg",
     "currencies": [
@@ -4551,7 +4551,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 236,
@@ -4559,7 +4559,7 @@
     "capital": "Kampala",
     "region": "Africa",
     "exchange_rate": 3469.635336,
-    "estimated_gdp": 18323706.49,
+    "estimated_gdp": 20909170.67,
     "population": 45741000,
     "flag": "https://flagcdn.com/ug.svg",
     "currencies": [
@@ -4570,7 +4570,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 237,
@@ -4578,7 +4578,7 @@
     "capital": "Kyiv",
     "region": "Europe",
     "exchange_rate": 41.974123,
-    "estimated_gdp": 1689699969.52,
+    "estimated_gdp": 1964026597.45,
     "population": 44134693,
     "flag": "https://flagcdn.com/ua.svg",
     "currencies": [
@@ -4589,7 +4589,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 238,
@@ -4597,7 +4597,7 @@
     "capital": "Abu Dhabi",
     "region": "Asia",
     "exchange_rate": 3.6725,
-    "estimated_gdp": 4846430321.48,
+    "estimated_gdp": 4295382091.61,
     "population": 9890400,
     "flag": "https://flagcdn.com/ae.svg",
     "currencies": [
@@ -4608,7 +4608,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 239,
@@ -4616,7 +4616,7 @@
     "capital": "London",
     "region": "Europe",
     "exchange_rate": 0.751475,
-    "estimated_gdp": 98620560813.16,
+    "estimated_gdp": 125169996869.18,
     "population": 67215293,
     "flag": "https://flagcdn.com/gb.svg",
     "currencies": [
@@ -4627,7 +4627,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 240,
@@ -4635,7 +4635,7 @@
     "capital": "Washington, D.C.",
     "region": "Americas",
     "exchange_rate": 1,
-    "estimated_gdp": 541396401209.41,
+    "estimated_gdp": 569079302761.44,
     "population": 329484123,
     "flag": "https://flagcdn.com/us.svg",
     "currencies": [
@@ -4646,7 +4646,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 241,
@@ -4654,7 +4654,7 @@
     "capital": "Montevideo",
     "region": "Americas",
     "exchange_rate": 39.708845,
-    "estimated_gdp": 170009910.18,
+    "estimated_gdp": 109072025.81,
     "population": 3473727,
     "flag": "https://flagcdn.com/uy.svg",
     "currencies": [
@@ -4665,7 +4665,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 242,
@@ -4673,7 +4673,7 @@
     "capital": "Tashkent",
     "region": "Asia",
     "exchange_rate": 12029.604299,
-    "estimated_gdp": 3561744.21,
+    "estimated_gdp": 4573746.77,
     "population": 34232050,
     "flag": "https://flagcdn.com/uz.svg",
     "currencies": [
@@ -4684,7 +4684,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 243,
@@ -4692,7 +4692,7 @@
     "capital": "Port Vila",
     "region": "Oceania",
     "exchange_rate": 121.79354,
-    "estimated_gdp": 4597523.46,
+    "estimated_gdp": 3189488.83,
     "population": 307150,
     "flag": "https://flagcdn.com/vu.svg",
     "currencies": [
@@ -4703,7 +4703,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 244,
@@ -4722,7 +4722,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:12.135Z"
+    "last_refreshed_at": "2025-10-25T13:38:40.186Z"
   },
   {
     "id": 245,
@@ -4730,7 +4730,7 @@
     "capital": "Hanoi",
     "region": "Asia",
     "exchange_rate": 26160.679867,
-    "estimated_gdp": 5271623.69,
+    "estimated_gdp": 7225543.41,
     "population": 97338583,
     "flag": "https://flagcdn.com/vn.svg",
     "currencies": [
@@ -4741,7 +4741,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 246,
@@ -4749,7 +4749,7 @@
     "capital": "Mata-Utu",
     "region": "Oceania",
     "exchange_rate": 102.652635,
-    "estimated_gdp": 130118.25,
+    "estimated_gdp": 228626.25,
     "population": 11750,
     "flag": "https://flagcdn.com/wf.svg",
     "currencies": [
@@ -4760,7 +4760,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 247,
@@ -4768,7 +4768,7 @@
     "capital": "El Aaiún",
     "region": "Africa",
     "exchange_rate": 9.235984,
-    "estimated_gdp": 77095110.73,
+    "estimated_gdp": 87170873.47,
     "population": 510713,
     "flag": "https://flagcdn.com/eh.svg",
     "currencies": [
@@ -4784,7 +4784,7 @@
       }
     ],
     "independent": false,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 248,
@@ -4792,7 +4792,7 @@
     "capital": "Sana'a",
     "region": "Asia",
     "exchange_rate": 238.226351,
-    "estimated_gdp": 208676712.98,
+    "estimated_gdp": 200373881.46,
     "population": 29825968,
     "flag": "https://flagcdn.com/ye.svg",
     "currencies": [
@@ -4803,7 +4803,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 249,
@@ -4811,7 +4811,7 @@
     "capital": "Lusaka",
     "region": "Africa",
     "exchange_rate": 22.441653,
-    "estimated_gdp": 853915009.36,
+    "estimated_gdp": 874869449.36,
     "population": 18383956,
     "flag": "https://flagcdn.com/zm.svg",
     "currencies": [
@@ -4822,7 +4822,7 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   },
   {
     "id": 250,
@@ -4830,7 +4830,7 @@
     "capital": "Harare",
     "region": "Africa",
     "exchange_rate": 22.441653,
-    "estimated_gdp": 727493235.12,
+    "estimated_gdp": 920115061.85,
     "population": 14862927,
     "flag": "https://flagcdn.com/zw.svg",
     "currencies": [
@@ -4841,6 +4841,6 @@
       }
     ],
     "independent": true,
-    "last_refreshed_at": "2025-10-25T12:59:13.205Z"
+    "last_refreshed_at": "2025-10-25T13:38:41.587Z"
   }
 ]
